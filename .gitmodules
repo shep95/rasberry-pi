@@ -1,0 +1,3160 @@
+[submodule "software/ai/ageitgey__face_recognition"]
+	path = software/ai/ageitgey__face_recognition
+	url = https://github.com/ageitgey/face_recognition.git
+	shallow = true
+[submodule "software/ai/alphacep__vosk-api"]
+	path = software/ai/alphacep__vosk-api
+	url = https://github.com/alphacep/vosk-api.git
+	shallow = true
+[submodule "software/ai/apache__tvm"]
+	path = software/ai/apache__tvm
+	url = https://github.com/apache/tvm.git
+	shallow = true
+[submodule "software/ai/ArduPilot__ardupilot"]
+	path = software/ai/ArduPilot__ardupilot
+	url = https://github.com/ArduPilot/ardupilot.git
+	shallow = true
+[submodule "software/ai/ArduPilot__MAVProxy"]
+	path = software/ai/ArduPilot__MAVProxy
+	url = https://github.com/ArduPilot/MAVProxy.git
+	shallow = true
+[submodule "software/ai/autorope__donkeycar"]
+	path = software/ai/autorope__donkeycar
+	url = https://github.com/autorope/donkeycar.git
+	shallow = true
+[submodule "software/ai/bluerobotics__BlueOS"]
+	path = software/ai/bluerobotics__BlueOS
+	url = https://github.com/bluerobotics/BlueOS.git
+	shallow = true
+[submodule "software/ai/bluerobotics__companion"]
+	path = software/ai/bluerobotics__companion
+	url = https://github.com/bluerobotics/companion.git
+	shallow = true
+[submodule "software/ai/coqui-ai__TTS"]
+	path = software/ai/coqui-ai__TTS
+	url = https://github.com/coqui-ai/TTS.git
+	shallow = true
+[submodule "software/ai/davisking__dlib"]
+	path = software/ai/davisking__dlib
+	url = https://github.com/davisking/dlib.git
+	shallow = true
+[submodule "software/ai/DexterInd__BrickPi3"]
+	path = software/ai/DexterInd__BrickPi3
+	url = https://github.com/DexterInd/BrickPi3.git
+	shallow = true
+[submodule "software/ai/DexterInd__GoPiGo3"]
+	path = software/ai/DexterInd__GoPiGo3
+	url = https://github.com/DexterInd/GoPiGo3.git
+	shallow = true
+[submodule "software/ai/edgeimpulse__edge-impulse-linux-cli"]
+	path = software/ai/edgeimpulse__edge-impulse-linux-cli
+	url = https://github.com/edgeimpulse/edge-impulse-linux-cli.git
+	shallow = true
+[submodule "software/ai/edgeimpulse__linux-sdk-python"]
+	path = software/ai/edgeimpulse__linux-sdk-python
+	url = https://github.com/edgeimpulse/linux-sdk-python.git
+	shallow = true
+[submodule "software/ai/EdjeElectronics__TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi"]
+	path = software/ai/EdjeElectronics__TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi
+	url = https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi.git
+	shallow = true
+[submodule "software/ai/Freenove__Freenove_4WD_Smart_Car_Kit_for_Raspberry_Pi"]
+	path = software/ai/Freenove__Freenove_4WD_Smart_Car_Kit_for_Raspberry_Pi
+	url = https://github.com/Freenove/Freenove_4WD_Smart_Car_Kit_for_Raspberry_Pi.git
+	shallow = true
+[submodule "software/ai/ggml-org__llama.cpp"]
+	path = software/ai/ggml-org__llama.cpp
+	url = https://github.com/ggml-org/llama.cpp.git
+	shallow = true
+[submodule "software/ai/ggml-org__whisper.cpp"]
+	path = software/ai/ggml-org__whisper.cpp
+	url = https://github.com/ggml-org/whisper.cpp.git
+	shallow = true
+[submodule "software/ai/google-ai-edge__LiteRT"]
+	path = software/ai/google-ai-edge__LiteRT
+	url = https://github.com/google-ai-edge/LiteRT.git
+	shallow = true
+[submodule "software/ai/google-ai-edge__mediapipe"]
+	path = software/ai/google-ai-edge__mediapipe
+	url = https://github.com/google-ai-edge/mediapipe.git
+	shallow = true
+[submodule "software/ai/google-coral__edgetpu"]
+	path = software/ai/google-coral__edgetpu
+	url = https://github.com/google-coral/edgetpu.git
+	shallow = true
+[submodule "software/ai/google-coral__pycoral"]
+	path = software/ai/google-coral__pycoral
+	url = https://github.com/google-coral/pycoral.git
+	shallow = true
+[submodule "software/ai/google-coral__tflite"]
+	path = software/ai/google-coral__tflite
+	url = https://github.com/google-coral/tflite.git
+	shallow = true
+[submodule "software/ai/hailo-ai__hailo-apps-infra"]
+	path = software/ai/hailo-ai__hailo-apps-infra
+	url = https://github.com/hailo-ai/hailo-apps-infra.git
+	shallow = true
+[submodule "software/ai/hailo-ai__hailo-rpi5-examples"]
+	path = software/ai/hailo-ai__hailo-rpi5-examples
+	url = https://github.com/hailo-ai/hailo-rpi5-examples.git
+	shallow = true
+[submodule "software/ai/hailo-ai__hailort"]
+	path = software/ai/hailo-ai__hailort
+	url = https://github.com/hailo-ai/hailort.git
+	shallow = true
+[submodule "software/ai/hailo-ai__hailort-drivers"]
+	path = software/ai/hailo-ai__hailort-drivers
+	url = https://github.com/hailo-ai/hailort-drivers.git
+	shallow = true
+[submodule "software/ai/hailo-ai__tappas"]
+	path = software/ai/hailo-ai__tappas
+	url = https://github.com/hailo-ai/tappas.git
+	shallow = true
+[submodule "software/ai/mavlink-router__mavlink-router"]
+	path = software/ai/mavlink-router__mavlink-router
+	url = https://github.com/mavlink-router/mavlink-router.git
+	shallow = true
+[submodule "software/ai/mavlink__MAVSDK"]
+	path = software/ai/mavlink__MAVSDK
+	url = https://github.com/mavlink/MAVSDK.git
+	shallow = true
+[submodule "software/ai/microsoft__onnxruntime"]
+	path = software/ai/microsoft__onnxruntime
+	url = https://github.com/microsoft/onnxruntime.git
+	shallow = true
+[submodule "software/ai/Mozilla-Ocho__llamafile"]
+	path = software/ai/Mozilla-Ocho__llamafile
+	url = https://github.com/Mozilla-Ocho/llamafile.git
+	shallow = true
+[submodule "software/ai/mozilla__DeepSpeech"]
+	path = software/ai/mozilla__DeepSpeech
+	url = https://github.com/mozilla/DeepSpeech.git
+	shallow = true
+[submodule "software/ai/mudler__LocalAI"]
+	path = software/ai/mudler__LocalAI
+	url = https://github.com/mudler/LocalAI.git
+	shallow = true
+[submodule "software/ai/nomic-ai__gpt4all"]
+	path = software/ai/nomic-ai__gpt4all
+	url = https://github.com/nomic-ai/gpt4all.git
+	shallow = true
+[submodule "software/ai/ollama__ollama"]
+	path = software/ai/ollama__ollama
+	url = https://github.com/ollama/ollama.git
+	shallow = true
+[submodule "software/ai/open-webui__open-webui"]
+	path = software/ai/open-webui__open-webui
+	url = https://github.com/open-webui/open-webui.git
+	shallow = true
+[submodule "software/ai/openai__whisper"]
+	path = software/ai/openai__whisper
+	url = https://github.com/openai/whisper.git
+	shallow = true
+[submodule "software/ai/opencv__opencv"]
+	path = software/ai/opencv__opencv
+	url = https://github.com/opencv/opencv.git
+	shallow = true
+[submodule "software/ai/opencv__opencv_contrib"]
+	path = software/ai/opencv__opencv_contrib
+	url = https://github.com/opencv/opencv_contrib.git
+	shallow = true
+[submodule "software/ai/OpenHD__OpenHD"]
+	path = software/ai/OpenHD__OpenHD
+	url = https://github.com/OpenHD/OpenHD.git
+	shallow = true
+[submodule "software/ai/openvinotoolkit__openvino"]
+	path = software/ai/openvinotoolkit__openvino
+	url = https://github.com/openvinotoolkit/openvino.git
+	shallow = true
+[submodule "software/ai/PaddlePaddle__Paddle-Lite"]
+	path = software/ai/PaddlePaddle__Paddle-Lite
+	url = https://github.com/PaddlePaddle/Paddle-Lite.git
+	shallow = true
+[submodule "software/ai/PetoiCamp__OpenCat"]
+	path = software/ai/PetoiCamp__OpenCat
+	url = https://github.com/PetoiCamp/OpenCat.git
+	shallow = true
+[submodule "software/ai/picovoice__picovoice"]
+	path = software/ai/picovoice__picovoice
+	url = https://github.com/picovoice/picovoice.git
+	shallow = true
+[submodule "software/ai/picovoice__porcupine"]
+	path = software/ai/picovoice__porcupine
+	url = https://github.com/picovoice/porcupine.git
+	shallow = true
+[submodule "software/ai/PX4__PX4-Autopilot"]
+	path = software/ai/PX4__PX4-Autopilot
+	url = https://github.com/PX4/PX4-Autopilot.git
+	shallow = true
+[submodule "software/ai/pytorch__pytorch"]
+	path = software/ai/pytorch__pytorch
+	url = https://github.com/pytorch/pytorch.git
+	shallow = true
+[submodule "software/ai/raspberrypi__imx500-models"]
+	path = software/ai/raspberrypi__imx500-models
+	url = https://github.com/raspberrypi/imx500-models.git
+	shallow = true
+[submodule "software/ai/rodizio1__EZ-WifiBroadcast"]
+	path = software/ai/rodizio1__EZ-WifiBroadcast
+	url = https://github.com/rodizio1/EZ-WifiBroadcast.git
+	shallow = true
+[submodule "software/ai/ros__ros_comm"]
+	path = software/ai/ros__ros_comm
+	url = https://github.com/ros/ros_comm.git
+	shallow = true
+[submodule "software/ai/ros2__rclpy"]
+	path = software/ai/ros2__rclpy
+	url = https://github.com/ros2/rclpy.git
+	shallow = true
+[submodule "software/ai/ros2__ros2"]
+	path = software/ai/ros2__ros2
+	url = https://github.com/ros2/ros2.git
+	shallow = true
+[submodule "software/ai/sunfounder__picar-x"]
+	path = software/ai/sunfounder__picar-x
+	url = https://github.com/sunfounder/picar-x.git
+	shallow = true
+[submodule "software/ai/sunfounder__robot-hat"]
+	path = software/ai/sunfounder__robot-hat
+	url = https://github.com/sunfounder/robot-hat.git
+	shallow = true
+[submodule "software/ai/svpcom__wfb-ng"]
+	path = software/ai/svpcom__wfb-ng
+	url = https://github.com/svpcom/wfb-ng.git
+	shallow = true
+[submodule "software/ai/SYSTRAN__faster-whisper"]
+	path = software/ai/SYSTRAN__faster-whisper
+	url = https://github.com/SYSTRAN/faster-whisper.git
+	shallow = true
+[submodule "software/ai/Tencent__ncnn"]
+	path = software/ai/Tencent__ncnn
+	url = https://github.com/Tencent/ncnn.git
+	shallow = true
+[submodule "software/ai/tensorflow__tensorflow"]
+	path = software/ai/tensorflow__tensorflow
+	url = https://github.com/tensorflow/tensorflow.git
+	shallow = true
+[submodule "software/ai/ultralytics__ultralytics"]
+	path = software/ai/ultralytics__ultralytics
+	url = https://github.com/ultralytics/ultralytics.git
+	shallow = true
+[submodule "software/astro/aaronwmorris__indi-allsky"]
+	path = software/astro/aaronwmorris__indi-allsky
+	url = https://github.com/aaronwmorris/indi-allsky.git
+	shallow = true
+[submodule "software/astro/astropy__astropy"]
+	path = software/astro/astropy__astropy
+	url = https://github.com/astropy/astropy.git
+	shallow = true
+[submodule "software/astro/dstndstn__astrometry.net"]
+	path = software/astro/dstndstn__astrometry.net
+	url = https://github.com/dstndstn/astrometry.net.git
+	shallow = true
+[submodule "software/astro/indilib__indi"]
+	path = software/astro/indilib__indi
+	url = https://github.com/indilib/indi.git
+	shallow = true
+[submodule "software/astro/indilib__indi-3rdparty"]
+	path = software/astro/indilib__indi-3rdparty
+	url = https://github.com/indilib/indi-3rdparty.git
+	shallow = true
+[submodule "software/astro/KDE__kstars"]
+	path = software/astro/KDE__kstars
+	url = https://github.com/KDE/kstars.git
+	shallow = true
+[submodule "software/astro/OpenAstroTech__OpenAstroTracker-Firmware"]
+	path = software/astro/OpenAstroTech__OpenAstroTracker-Firmware
+	url = https://github.com/OpenAstroTech/OpenAstroTracker-Firmware.git
+	shallow = true
+[submodule "software/astro/OpenPHDGuiding__phd2"]
+	path = software/astro/OpenPHDGuiding__phd2
+	url = https://github.com/OpenPHDGuiding/phd2.git
+	shallow = true
+[submodule "software/astro/pchev__ccdciel"]
+	path = software/astro/pchev__ccdciel
+	url = https://github.com/pchev/ccdciel.git
+	shallow = true
+[submodule "software/astro/Stellarium__stellarium"]
+	path = software/astro/Stellarium__stellarium
+	url = https://github.com/Stellarium/stellarium.git
+	shallow = true
+[submodule "software/containers/alexellis__arkade"]
+	path = software/containers/alexellis__arkade
+	url = https://github.com/alexellis/arkade.git
+	shallow = true
+[submodule "software/containers/alexellis__k3sup"]
+	path = software/containers/alexellis__k3sup
+	url = https://github.com/alexellis/k3sup.git
+	shallow = true
+[submodule "software/containers/ansible__ansible"]
+	path = software/containers/ansible__ansible
+	url = https://github.com/ansible/ansible.git
+	shallow = true
+[submodule "software/containers/balena-io__balena-cli"]
+	path = software/containers/balena-io__balena-cli
+	url = https://github.com/balena-io/balena-cli.git
+	shallow = true
+[submodule "software/containers/canonical__microk8s"]
+	path = software/containers/canonical__microk8s
+	url = https://github.com/canonical/microk8s.git
+	shallow = true
+[submodule "software/containers/containers__podman"]
+	path = software/containers/containers__podman
+	url = https://github.com/containers/podman.git
+	shallow = true
+[submodule "software/containers/containrrr__watchtower"]
+	path = software/containers/containrrr__watchtower
+	url = https://github.com/containrrr/watchtower.git
+	shallow = true
+[submodule "software/containers/docker__compose"]
+	path = software/containers/docker__compose
+	url = https://github.com/docker/compose.git
+	shallow = true
+[submodule "software/containers/docker__docker-install"]
+	path = software/containers/docker__docker-install
+	url = https://github.com/docker/docker-install.git
+	shallow = true
+[submodule "software/containers/geerlingguy__ansible-role-docker_arm"]
+	path = software/containers/geerlingguy__ansible-role-docker_arm
+	url = https://github.com/geerlingguy/ansible-role-docker_arm.git
+	shallow = true
+[submodule "software/containers/geerlingguy__pi-cluster"]
+	path = software/containers/geerlingguy__pi-cluster
+	url = https://github.com/geerlingguy/pi-cluster.git
+	shallow = true
+[submodule "software/containers/geerlingguy__raspberry-pi-dramble"]
+	path = software/containers/geerlingguy__raspberry-pi-dramble
+	url = https://github.com/geerlingguy/raspberry-pi-dramble.git
+	shallow = true
+[submodule "software/containers/geerlingguy__turing-pi-2-cluster"]
+	path = software/containers/geerlingguy__turing-pi-2-cluster
+	url = https://github.com/geerlingguy/turing-pi-2-cluster.git
+	shallow = true
+[submodule "software/containers/hashicorp__nomad"]
+	path = software/containers/hashicorp__nomad
+	url = https://github.com/hashicorp/nomad.git
+	shallow = true
+[submodule "software/containers/hypriot__flash"]
+	path = software/containers/hypriot__flash
+	url = https://github.com/hypriot/flash.git
+	shallow = true
+[submodule "software/containers/hypriot__image-builder-rpi"]
+	path = software/containers/hypriot__image-builder-rpi
+	url = https://github.com/hypriot/image-builder-rpi.git
+	shallow = true
+[submodule "software/containers/k3s-io__k3s"]
+	path = software/containers/k3s-io__k3s
+	url = https://github.com/k3s-io/k3s.git
+	shallow = true
+[submodule "software/containers/k3s-io__k3s-ansible"]
+	path = software/containers/k3s-io__k3s-ansible
+	url = https://github.com/k3s-io/k3s-ansible.git
+	shallow = true
+[submodule "software/containers/kubernetes__kubernetes"]
+	path = software/containers/kubernetes__kubernetes
+	url = https://github.com/kubernetes/kubernetes.git
+	shallow = true
+[submodule "software/containers/lxc__incus"]
+	path = software/containers/lxc__incus
+	url = https://github.com/lxc/incus.git
+	shallow = true
+[submodule "software/containers/lxc__lxc"]
+	path = software/containers/lxc__lxc
+	url = https://github.com/lxc/lxc.git
+	shallow = true
+[submodule "software/containers/moby__moby"]
+	path = software/containers/moby__moby
+	url = https://github.com/moby/moby.git
+	shallow = true
+[submodule "software/containers/openfaas__faas"]
+	path = software/containers/openfaas__faas
+	url = https://github.com/openfaas/faas.git
+	shallow = true
+[submodule "software/containers/openfaas__faasd"]
+	path = software/containers/openfaas__faasd
+	url = https://github.com/openfaas/faasd.git
+	shallow = true
+[submodule "software/containers/portainer__portainer"]
+	path = software/containers/portainer__portainer
+	url = https://github.com/portainer/portainer.git
+	shallow = true
+[submodule "software/containers/rancher__rancher"]
+	path = software/containers/rancher__rancher
+	url = https://github.com/rancher/rancher.git
+	shallow = true
+[submodule "software/desktop/AndreRH__hangover"]
+	path = software/desktop/AndreRH__hangover
+	url = https://github.com/AndreRH/hangover.git
+	shallow = true
+[submodule "software/desktop/ardera__flutter-pi"]
+	path = software/desktop/ardera__flutter-pi
+	url = https://github.com/ardera/flutter-pi.git
+	shallow = true
+[submodule "software/desktop/cage-kiosk__cage"]
+	path = software/desktop/cage-kiosk__cage
+	url = https://github.com/cage-kiosk/cage.git
+	shallow = true
+[submodule "software/desktop/carlosperate__docker-qemu-rpi-os"]
+	path = software/desktop/carlosperate__docker-qemu-rpi-os
+	url = https://github.com/carlosperate/docker-qemu-rpi-os.git
+	shallow = true
+[submodule "software/desktop/cmus__cmus"]
+	path = software/desktop/cmus__cmus
+	url = https://github.com/cmus/cmus.git
+	shallow = true
+[submodule "software/desktop/dhruvvyas90__qemu-rpi-kernel"]
+	path = software/desktop/dhruvvyas90__qemu-rpi-kernel
+	url = https://github.com/dhruvvyas90/qemu-rpi-kernel.git
+	shallow = true
+[submodule "software/desktop/dividuum__info-beamer"]
+	path = software/desktop/dividuum__info-beamer
+	url = https://github.com/dividuum/info-beamer.git
+	shallow = true
+[submodule "software/desktop/flatpak__flatpak"]
+	path = software/desktop/flatpak__flatpak
+	url = https://github.com/flatpak/flatpak.git
+	shallow = true
+[submodule "software/desktop/info-beamer__package-sdk"]
+	path = software/desktop/info-beamer__package-sdk
+	url = https://github.com/info-beamer/package-sdk.git
+	shallow = true
+[submodule "software/desktop/Itai-Nelken__PiApps-terminal_bash-edition"]
+	path = software/desktop/Itai-Nelken__PiApps-terminal_bash-edition
+	url = https://github.com/Itai-Nelken/PiApps-terminal_bash-edition.git
+	shallow = true
+[submodule "software/desktop/jesseduffield__lazygit"]
+	path = software/desktop/jesseduffield__lazygit
+	url = https://github.com/jesseduffield/lazygit.git
+	shallow = true
+[submodule "software/desktop/labwc__labwc"]
+	path = software/desktop/labwc__labwc
+	url = https://github.com/labwc/labwc.git
+	shallow = true
+[submodule "software/desktop/lukechilds__dockerpi"]
+	path = software/desktop/lukechilds__dockerpi
+	url = https://github.com/lukechilds/dockerpi.git
+	shallow = true
+[submodule "software/desktop/LVGL__lvgl"]
+	path = software/desktop/LVGL__lvgl
+	url = https://github.com/LVGL/lvgl.git
+	shallow = true
+[submodule "software/desktop/lvgl__lv_port_linux"]
+	path = software/desktop/lvgl__lv_port_linux
+	url = https://github.com/lvgl/lv_port_linux.git
+	shallow = true
+[submodule "software/desktop/lxde__lxpanel"]
+	path = software/desktop/lxde__lxpanel
+	url = https://github.com/lxde/lxpanel.git
+	shallow = true
+[submodule "software/desktop/lxqt__lxqt"]
+	path = software/desktop/lxqt__lxqt
+	url = https://github.com/lxqt/lxqt.git
+	shallow = true
+[submodule "software/desktop/neovim__neovim"]
+	path = software/desktop/neovim__neovim
+	url = https://github.com/neovim/neovim.git
+	shallow = true
+[submodule "software/desktop/qemu__qemu"]
+	path = software/desktop/qemu__qemu
+	url = https://github.com/qemu/qemu.git
+	shallow = true
+[submodule "software/desktop/ranger__ranger"]
+	path = software/desktop/ranger__ranger
+	url = https://github.com/ranger/ranger.git
+	shallow = true
+[submodule "software/desktop/slint-ui__slint"]
+	path = software/desktop/slint-ui__slint
+	url = https://github.com/slint-ui/slint.git
+	shallow = true
+[submodule "software/desktop/snapcore__snapd"]
+	path = software/desktop/snapcore__snapd
+	url = https://github.com/snapcore/snapd.git
+	shallow = true
+[submodule "software/desktop/sony__flutter-elinux"]
+	path = software/desktop/sony__flutter-elinux
+	url = https://github.com/sony/flutter-elinux.git
+	shallow = true
+[submodule "software/desktop/swaywm__sway"]
+	path = software/desktop/swaywm__sway
+	url = https://github.com/swaywm/sway.git
+	shallow = true
+[submodule "software/desktop/tmux__tmux"]
+	path = software/desktop/tmux__tmux
+	url = https://github.com/tmux/tmux.git
+	shallow = true
+[submodule "software/desktop/vim__vim"]
+	path = software/desktop/vim__vim
+	url = https://github.com/vim/vim.git
+	shallow = true
+[submodule "software/desktop/WayfireWM__wayfire"]
+	path = software/desktop/WayfireWM__wayfire
+	url = https://github.com/WayfireWM/wayfire.git
+	shallow = true
+[submodule "software/desktop/wine-mirror__wine"]
+	path = software/desktop/wine-mirror__wine
+	url = https://github.com/wine-mirror/wine.git
+	shallow = true
+[submodule "software/education/arduino__arduino-cli"]
+	path = software/education/arduino__arduino-cli
+	url = https://github.com/arduino/arduino-cli.git
+	shallow = true
+[submodule "software/education/arduino__arduino-ide"]
+	path = software/education/arduino__arduino-ide
+	url = https://github.com/arduino/arduino-ide.git
+	shallow = true
+[submodule "software/education/astro-pi__python-sense-emu"]
+	path = software/education/astro-pi__python-sense-emu
+	url = https://github.com/astro-pi/python-sense-emu.git
+	shallow = true
+[submodule "software/education/coder__code-server"]
+	path = software/education/coder__code-server
+	url = https://github.com/coder/code-server.git
+	shallow = true
+[submodule "software/education/fritzing__fritzing-app"]
+	path = software/education/fritzing__fritzing-app
+	url = https://github.com/fritzing/fritzing-app.git
+	shallow = true
+[submodule "software/education/geany__geany"]
+	path = software/education/geany__geany
+	url = https://github.com/geany/geany.git
+	shallow = true
+[submodule "software/education/google__blockly"]
+	path = software/education/google__blockly
+	url = https://github.com/google/blockly.git
+	shallow = true
+[submodule "software/education/jupyter__notebook"]
+	path = software/education/jupyter__notebook
+	url = https://github.com/jupyter/notebook.git
+	shallow = true
+[submodule "software/education/jupyterlab__jupyterlab"]
+	path = software/education/jupyterlab__jupyterlab
+	url = https://github.com/jupyterlab/jupyterlab.git
+	shallow = true
+[submodule "software/education/KDE__gcompris"]
+	path = software/education/KDE__gcompris
+	url = https://github.com/KDE/gcompris.git
+	shallow = true
+[submodule "software/education/kivy__kivy"]
+	path = software/education/kivy__kivy
+	url = https://github.com/kivy/kivy.git
+	shallow = true
+[submodule "software/education/learningequality__kolibri"]
+	path = software/education/learningequality__kolibri
+	url = https://github.com/learningequality/kolibri.git
+	shallow = true
+[submodule "software/education/LibreOffice__core"]
+	path = software/education/LibreOffice__core
+	url = https://github.com/LibreOffice/core.git
+	shallow = true
+[submodule "software/education/lordmauve__pgzero"]
+	path = software/education/lordmauve__pgzero
+	url = https://github.com/lordmauve/pgzero.git
+	shallow = true
+[submodule "software/education/martinohanlon__mcpi"]
+	path = software/education/martinohanlon__mcpi
+	url = https://github.com/martinohanlon/mcpi.git
+	shallow = true
+[submodule "software/education/martinohanlon__minecraft-stuff"]
+	path = software/education/martinohanlon__minecraft-stuff
+	url = https://github.com/martinohanlon/minecraft-stuff.git
+	shallow = true
+[submodule "software/education/microsoft__pxt"]
+	path = software/education/microsoft__pxt
+	url = https://github.com/microsoft/pxt.git
+	shallow = true
+[submodule "software/education/microsoft__pxt-microbit"]
+	path = software/education/microsoft__pxt-microbit
+	url = https://github.com/microsoft/pxt-microbit.git
+	shallow = true
+[submodule "software/education/microsoft__vscode"]
+	path = software/education/microsoft__vscode
+	url = https://github.com/microsoft/vscode.git
+	shallow = true
+[submodule "software/education/mu-editor__mu"]
+	path = software/education/mu-editor__mu
+	url = https://github.com/mu-editor/mu.git
+	shallow = true
+[submodule "software/education/processing__processing4"]
+	path = software/education/processing__processing4
+	url = https://github.com/processing/processing4.git
+	shallow = true
+[submodule "software/education/pygame-community__pygame-ce"]
+	path = software/education/pygame-community__pygame-ce
+	url = https://github.com/pygame-community/pygame-ce.git
+	shallow = true
+[submodule "software/education/pygame__pygame"]
+	path = software/education/pygame__pygame
+	url = https://github.com/pygame/pygame.git
+	shallow = true
+[submodule "software/education/RaspberryPiFoundation__editor-api"]
+	path = software/education/RaspberryPiFoundation__editor-api
+	url = https://github.com/RaspberryPiFoundation/editor-api.git
+	shallow = true
+[submodule "software/education/RaspberryPiFoundation__editor-ui"]
+	path = software/education/RaspberryPiFoundation__editor-ui
+	url = https://github.com/RaspberryPiFoundation/editor-ui.git
+	shallow = true
+[submodule "software/education/RPi-Distro__python-sense-emu"]
+	path = software/education/RPi-Distro__python-sense-emu
+	url = https://github.com/RPi-Distro/python-sense-emu.git
+	shallow = true
+[submodule "software/education/scratchfoundation__scratch-desktop"]
+	path = software/education/scratchfoundation__scratch-desktop
+	url = https://github.com/scratchfoundation/scratch-desktop.git
+	shallow = true
+[submodule "software/education/scratchfoundation__scratch-gui"]
+	path = software/education/scratchfoundation__scratch-gui
+	url = https://github.com/scratchfoundation/scratch-gui.git
+	shallow = true
+[submodule "software/education/thonny__thonny"]
+	path = software/education/thonny__thonny
+	url = https://github.com/thonny/thonny.git
+	shallow = true
+[submodule "software/education/VSCodium__vscodium"]
+	path = software/education/VSCodium__vscodium
+	url = https://github.com/VSCodium/vscodium.git
+	shallow = true
+[submodule "software/gaming/Aloshi__EmulationStation"]
+	path = software/gaming/Aloshi__EmulationStation
+	url = https://github.com/Aloshi/EmulationStation.git
+	shallow = true
+[submodule "software/gaming/BlitterStudio__amiberry"]
+	path = software/gaming/BlitterStudio__amiberry
+	url = https://github.com/BlitterStudio/amiberry.git
+	shallow = true
+[submodule "software/gaming/chocolate-doom__chocolate-doom"]
+	path = software/gaming/chocolate-doom__chocolate-doom
+	url = https://github.com/chocolate-doom/chocolate-doom.git
+	shallow = true
+[submodule "software/gaming/dolphin-emu__dolphin"]
+	path = software/gaming/dolphin-emu__dolphin
+	url = https://github.com/dolphin-emu/dolphin.git
+	shallow = true
+[submodule "software/gaming/DOSBox-Staging__dosbox-staging"]
+	path = software/gaming/DOSBox-Staging__dosbox-staging
+	url = https://github.com/DOSBox-Staging/dosbox-staging.git
+	shallow = true
+[submodule "software/gaming/fabiangreffrath__crispy-doom"]
+	path = software/gaming/fabiangreffrath__crispy-doom
+	url = https://github.com/fabiangreffrath/crispy-doom.git
+	shallow = true
+[submodule "software/gaming/FEX-Emu__FEX"]
+	path = software/gaming/FEX-Emu__FEX
+	url = https://github.com/FEX-Emu/FEX.git
+	shallow = true
+[submodule "software/gaming/flyinghead__flycast"]
+	path = software/gaming/flyinghead__flycast
+	url = https://github.com/flyinghead/flycast.git
+	shallow = true
+[submodule "software/gaming/hrydgard__ppsspp"]
+	path = software/gaming/hrydgard__ppsspp
+	url = https://github.com/hrydgard/ppsspp.git
+	shallow = true
+[submodule "software/gaming/ioquake__ioq3"]
+	path = software/gaming/ioquake__ioq3
+	url = https://github.com/ioquake/ioq3.git
+	shallow = true
+[submodule "software/gaming/libretro__beetle-psx-libretro"]
+	path = software/gaming/libretro__beetle-psx-libretro
+	url = https://github.com/libretro/beetle-psx-libretro.git
+	shallow = true
+[submodule "software/gaming/libretro__fbneo"]
+	path = software/gaming/libretro__fbneo
+	url = https://github.com/libretro/fbneo.git
+	shallow = true
+[submodule "software/gaming/libretro__libretro-super"]
+	path = software/gaming/libretro__libretro-super
+	url = https://github.com/libretro/libretro-super.git
+	shallow = true
+[submodule "software/gaming/libretro__mame"]
+	path = software/gaming/libretro__mame
+	url = https://github.com/libretro/mame.git
+	shallow = true
+[submodule "software/gaming/libretro__mupen64plus-libretro-nx"]
+	path = software/gaming/libretro__mupen64plus-libretro-nx
+	url = https://github.com/libretro/mupen64plus-libretro-nx.git
+	shallow = true
+[submodule "software/gaming/libretro__pcsx_rearmed"]
+	path = software/gaming/libretro__pcsx_rearmed
+	url = https://github.com/libretro/pcsx_rearmed.git
+	shallow = true
+[submodule "software/gaming/libretro__RetroArch"]
+	path = software/gaming/libretro__RetroArch
+	url = https://github.com/libretro/RetroArch.git
+	shallow = true
+[submodule "software/gaming/libretro__snes9x"]
+	path = software/gaming/libretro__snes9x
+	url = https://github.com/libretro/snes9x.git
+	shallow = true
+[submodule "software/gaming/LizardByte__Sunshine"]
+	path = software/gaming/LizardByte__Sunshine
+	url = https://github.com/LizardByte/Sunshine.git
+	shallow = true
+[submodule "software/gaming/luanti-org__luanti"]
+	path = software/gaming/luanti-org__luanti
+	url = https://github.com/luanti-org/luanti.git
+	shallow = true
+[submodule "software/gaming/midwan__amiberry"]
+	path = software/gaming/midwan__amiberry
+	url = https://github.com/midwan/amiberry.git
+	shallow = true
+[submodule "software/gaming/minetest__minetest"]
+	path = software/gaming/minetest__minetest
+	url = https://github.com/minetest/minetest.git
+	shallow = true
+[submodule "software/gaming/moonlight-stream__moonlight-embedded"]
+	path = software/gaming/moonlight-stream__moonlight-embedded
+	url = https://github.com/moonlight-stream/moonlight-embedded.git
+	shallow = true
+[submodule "software/gaming/moonlight-stream__moonlight-qt"]
+	path = software/gaming/moonlight-stream__moonlight-qt
+	url = https://github.com/moonlight-stream/moonlight-qt.git
+	shallow = true
+[submodule "software/gaming/mupen64plus__mupen64plus-core"]
+	path = software/gaming/mupen64plus__mupen64plus-core
+	url = https://github.com/mupen64plus/mupen64plus-core.git
+	shallow = true
+[submodule "software/gaming/Novum__vkQuake"]
+	path = software/gaming/Novum__vkQuake
+	url = https://github.com/Novum/vkQuake.git
+	shallow = true
+[submodule "software/gaming/OpenRCT2__OpenRCT2"]
+	path = software/gaming/OpenRCT2__OpenRCT2
+	url = https://github.com/OpenRCT2/OpenRCT2.git
+	shallow = true
+[submodule "software/gaming/OpenTTD__OpenTTD"]
+	path = software/gaming/OpenTTD__OpenTTD
+	url = https://github.com/OpenTTD/OpenTTD.git
+	shallow = true
+[submodule "software/gaming/PCSX2__pcsx2"]
+	path = software/gaming/PCSX2__pcsx2
+	url = https://github.com/PCSX2/pcsx2.git
+	shallow = true
+[submodule "software/gaming/ptitSeb__box64"]
+	path = software/gaming/ptitSeb__box64
+	url = https://github.com/ptitSeb/box64.git
+	shallow = true
+[submodule "software/gaming/ptitSeb__box86"]
+	path = software/gaming/ptitSeb__box86
+	url = https://github.com/ptitSeb/box86.git
+	shallow = true
+[submodule "software/gaming/ptitSeb__gl4es"]
+	path = software/gaming/ptitSeb__gl4es
+	url = https://github.com/ptitSeb/gl4es.git
+	shallow = true
+[submodule "software/gaming/scummvm__scummvm"]
+	path = software/gaming/scummvm__scummvm
+	url = https://github.com/scummvm/scummvm.git
+	shallow = true
+[submodule "software/gaming/yquake2__yquake2"]
+	path = software/gaming/yquake2__yquake2
+	url = https://github.com/yquake2/yquake2.git
+	shallow = true
+[submodule "software/hardware/adafruit__Adafruit_Blinka"]
+	path = software/hardware/adafruit__Adafruit_Blinka
+	url = https://github.com/adafruit/Adafruit_Blinka.git
+	shallow = true
+[submodule "software/hardware/adafruit__Adafruit_CircuitPython_Bundle"]
+	path = software/hardware/adafruit__Adafruit_CircuitPython_Bundle
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Bundle.git
+	shallow = true
+[submodule "software/hardware/adafruit__Adafruit_CircuitPython_DHT"]
+	path = software/hardware/adafruit__Adafruit_CircuitPython_DHT
+	url = https://github.com/adafruit/Adafruit_CircuitPython_DHT.git
+	shallow = true
+[submodule "software/hardware/adafruit__Adafruit_Python_DHT"]
+	path = software/hardware/adafruit__Adafruit_Python_DHT
+	url = https://github.com/adafruit/Adafruit_Python_DHT.git
+	shallow = true
+[submodule "software/hardware/adafruit__Raspberry-Pi-Installer-Scripts"]
+	path = software/hardware/adafruit__Raspberry-Pi-Installer-Scripts
+	url = https://github.com/adafruit/Raspberry-Pi-Installer-Scripts.git
+	shallow = true
+[submodule "software/hardware/astro-pi__python-sense-hat"]
+	path = software/hardware/astro-pi__python-sense-hat
+	url = https://github.com/astro-pi/python-sense-hat.git
+	shallow = true
+[submodule "software/hardware/brgl__libgpiod"]
+	path = software/hardware/brgl__libgpiod
+	url = https://github.com/brgl/libgpiod.git
+	shallow = true
+[submodule "software/hardware/dotnet__iot"]
+	path = software/hardware/dotnet__iot
+	url = https://github.com/dotnet/iot.git
+	shallow = true
+[submodule "software/hardware/fivdi__onoff"]
+	path = software/hardware/fivdi__onoff
+	url = https://github.com/fivdi/onoff.git
+	shallow = true
+[submodule "software/hardware/fivdi__pigpio"]
+	path = software/hardware/fivdi__pigpio
+	url = https://github.com/fivdi/pigpio.git
+	shallow = true
+[submodule "software/hardware/Gadgetoid__Pinout.xyz"]
+	path = software/hardware/Gadgetoid__Pinout.xyz
+	url = https://github.com/Gadgetoid/Pinout.xyz.git
+	shallow = true
+[submodule "software/hardware/geerlingguy__raspberry-pi-pcie-devices"]
+	path = software/hardware/geerlingguy__raspberry-pi-pcie-devices
+	url = https://github.com/geerlingguy/raspberry-pi-pcie-devices.git
+	shallow = true
+[submodule "software/hardware/golemparts__rppal"]
+	path = software/hardware/golemparts__rppal
+	url = https://github.com/golemparts/rppal.git
+	shallow = true
+[submodule "software/hardware/goodtft__LCD-show"]
+	path = software/hardware/goodtft__LCD-show
+	url = https://github.com/goodtft/LCD-show.git
+	shallow = true
+[submodule "software/hardware/gpiozero__gpiozero"]
+	path = software/hardware/gpiozero__gpiozero
+	url = https://github.com/gpiozero/gpiozero.git
+	shallow = true
+[submodule "software/hardware/hzeller__rpi-rgb-led-matrix"]
+	path = software/hardware/hzeller__rpi-rgb-led-matrix
+	url = https://github.com/hzeller/rpi-rgb-led-matrix.git
+	shallow = true
+[submodule "software/hardware/jgarff__rpi_ws281x"]
+	path = software/hardware/jgarff__rpi_ws281x
+	url = https://github.com/jgarff/rpi_ws281x.git
+	shallow = true
+[submodule "software/hardware/joan2937__lg"]
+	path = software/hardware/joan2937__lg
+	url = https://github.com/joan2937/lg.git
+	shallow = true
+[submodule "software/hardware/joan2937__pigpio"]
+	path = software/hardware/joan2937__pigpio
+	url = https://github.com/joan2937/pigpio.git
+	shallow = true
+[submodule "software/hardware/juj__fbcp-ili9341"]
+	path = software/hardware/juj__fbcp-ili9341
+	url = https://github.com/juj/fbcp-ili9341.git
+	shallow = true
+[submodule "software/hardware/nebrius__raspi-io"]
+	path = software/hardware/nebrius__raspi-io
+	url = https://github.com/nebrius/raspi-io.git
+	shallow = true
+[submodule "software/hardware/notro__fbtft"]
+	path = software/hardware/notro__fbtft
+	url = https://github.com/notro/fbtft.git
+	shallow = true
+[submodule "software/hardware/periph__host"]
+	path = software/hardware/periph__host
+	url = https://github.com/periph/host.git
+	shallow = true
+[submodule "software/hardware/pi4j__pi4j-v2"]
+	path = software/hardware/pi4j__pi4j-v2
+	url = https://github.com/pi4j/pi4j-v2.git
+	shallow = true
+[submodule "software/hardware/pimoroni__bme280-python"]
+	path = software/hardware/pimoroni__bme280-python
+	url = https://github.com/pimoroni/bme280-python.git
+	shallow = true
+[submodule "software/hardware/pimoroni__displayhatmini-python"]
+	path = software/hardware/pimoroni__displayhatmini-python
+	url = https://github.com/pimoroni/displayhatmini-python.git
+	shallow = true
+[submodule "software/hardware/pimoroni__enviroplus-python"]
+	path = software/hardware/pimoroni__enviroplus-python
+	url = https://github.com/pimoroni/enviroplus-python.git
+	shallow = true
+[submodule "software/hardware/pimoroni__fanshim-python"]
+	path = software/hardware/pimoroni__fanshim-python
+	url = https://github.com/pimoroni/fanshim-python.git
+	shallow = true
+[submodule "software/hardware/pimoroni__inky"]
+	path = software/hardware/pimoroni__inky
+	url = https://github.com/pimoroni/inky.git
+	shallow = true
+[submodule "software/hardware/pimoroni__st7789-python"]
+	path = software/hardware/pimoroni__st7789-python
+	url = https://github.com/pimoroni/st7789-python.git
+	shallow = true
+[submodule "software/hardware/pimoroni__unicornhatmini-python"]
+	path = software/hardware/pimoroni__unicornhatmini-python
+	url = https://github.com/pimoroni/unicornhatmini-python.git
+	shallow = true
+[submodule "software/hardware/pinout-xyz__Pinout.xyz"]
+	path = software/hardware/pinout-xyz__Pinout.xyz
+	url = https://github.com/pinout-xyz/Pinout.xyz.git
+	shallow = true
+[submodule "software/hardware/PiSupply__PiJuice"]
+	path = software/hardware/PiSupply__PiJuice
+	url = https://github.com/PiSupply/PiJuice.git
+	shallow = true
+[submodule "software/hardware/rm-hull__luma.led_matrix"]
+	path = software/hardware/rm-hull__luma.led_matrix
+	url = https://github.com/rm-hull/luma.led_matrix.git
+	shallow = true
+[submodule "software/hardware/rm-hull__luma.oled"]
+	path = software/hardware/rm-hull__luma.oled
+	url = https://github.com/rm-hull/luma.oled.git
+	shallow = true
+[submodule "software/hardware/rpi-ws281x__rpi-ws281x-python"]
+	path = software/hardware/rpi-ws281x__rpi-ws281x-python
+	url = https://github.com/rpi-ws281x/rpi-ws281x-python.git
+	shallow = true
+[submodule "software/hardware/rwaldron__johnny-five"]
+	path = software/hardware/rwaldron__johnny-five
+	url = https://github.com/rwaldron/johnny-five.git
+	shallow = true
+[submodule "software/hardware/stianeikeland__go-rpio"]
+	path = software/hardware/stianeikeland__go-rpio
+	url = https://github.com/stianeikeland/go-rpio.git
+	shallow = true
+[submodule "software/hardware/tasanakorn__rpi-fbcp"]
+	path = software/hardware/tasanakorn__rpi-fbcp
+	url = https://github.com/tasanakorn/rpi-fbcp.git
+	shallow = true
+[submodule "software/hardware/Tieske__rpi-gpio"]
+	path = software/hardware/Tieske__rpi-gpio
+	url = https://github.com/Tieske/rpi-gpio.git
+	shallow = true
+[submodule "software/hardware/waveshareteam__e-Paper"]
+	path = software/hardware/waveshareteam__e-Paper
+	url = https://github.com/waveshareteam/e-Paper.git
+	shallow = true
+[submodule "software/hardware/WiringPi__WiringPi"]
+	path = software/hardware/WiringPi__WiringPi
+	url = https://github.com/WiringPi/WiringPi.git
+	shallow = true
+[submodule "software/iot/alexa__avs-device-sdk"]
+	path = software/iot/alexa__avs-device-sdk
+	url = https://github.com/alexa/avs-device-sdk.git
+	shallow = true
+[submodule "software/iot/arendst__Tasmota"]
+	path = software/iot/arendst__Tasmota
+	url = https://github.com/arendst/Tasmota.git
+	shallow = true
+[submodule "software/iot/aristocratos__btop"]
+	path = software/iot/aristocratos__btop
+	url = https://github.com/aristocratos/btop.git
+	shallow = true
+[submodule "software/iot/ClementTsang__bottom"]
+	path = software/iot/ClementTsang__bottom
+	url = https://github.com/ClementTsang/bottom.git
+	shallow = true
+[submodule "software/iot/domoticz__domoticz"]
+	path = software/iot/domoticz__domoticz
+	url = https://github.com/domoticz/domoticz.git
+	shallow = true
+[submodule "software/iot/dscripka__openWakeWord"]
+	path = software/iot/dscripka__openWakeWord
+	url = https://github.com/dscripka/openWakeWord.git
+	shallow = true
+[submodule "software/iot/eclipse-mosquitto__mosquitto"]
+	path = software/iot/eclipse-mosquitto__mosquitto
+	url = https://github.com/eclipse-mosquitto/mosquitto.git
+	shallow = true
+[submodule "software/iot/eclipse__mosquitto"]
+	path = software/iot/eclipse__mosquitto
+	url = https://github.com/eclipse/mosquitto.git
+	shallow = true
+[submodule "software/iot/emqx__emqx"]
+	path = software/iot/emqx__emqx
+	url = https://github.com/emqx/emqx.git
+	shallow = true
+[submodule "software/iot/esphome__esphome"]
+	path = software/iot/esphome__esphome
+	url = https://github.com/esphome/esphome.git
+	shallow = true
+[submodule "software/iot/googlesamples__assistant-sdk-python"]
+	path = software/iot/googlesamples__assistant-sdk-python
+	url = https://github.com/googlesamples/assistant-sdk-python.git
+	shallow = true
+[submodule "software/iot/grafana__grafana"]
+	path = software/iot/grafana__grafana
+	url = https://github.com/grafana/grafana.git
+	shallow = true
+[submodule "software/iot/home-assistant__addons"]
+	path = software/iot/home-assistant__addons
+	url = https://github.com/home-assistant/addons.git
+	shallow = true
+[submodule "software/iot/home-assistant__core"]
+	path = software/iot/home-assistant__core
+	url = https://github.com/home-assistant/core.git
+	shallow = true
+[submodule "software/iot/home-assistant__frontend"]
+	path = software/iot/home-assistant__frontend
+	url = https://github.com/home-assistant/frontend.git
+	shallow = true
+[submodule "software/iot/home-assistant__supervised-installer"]
+	path = software/iot/home-assistant__supervised-installer
+	url = https://github.com/home-assistant/supervised-installer.git
+	shallow = true
+[submodule "software/iot/homebridge__homebridge"]
+	path = software/iot/homebridge__homebridge
+	url = https://github.com/homebridge/homebridge.git
+	shallow = true
+[submodule "software/iot/homebridge__homebridge-config-ui-x"]
+	path = software/iot/homebridge__homebridge-config-ui-x
+	url = https://github.com/homebridge/homebridge-config-ui-x.git
+	shallow = true
+[submodule "software/iot/htop-dev__htop"]
+	path = software/iot/htop-dev__htop
+	url = https://github.com/htop-dev/htop.git
+	shallow = true
+[submodule "software/iot/influxdata__influxdb"]
+	path = software/iot/influxdata__influxdb
+	url = https://github.com/influxdata/influxdb.git
+	shallow = true
+[submodule "software/iot/influxdata__telegraf"]
+	path = software/iot/influxdata__telegraf
+	url = https://github.com/influxdata/telegraf.git
+	shallow = true
+[submodule "software/iot/ioBroker__ioBroker"]
+	path = software/iot/ioBroker__ioBroker
+	url = https://github.com/ioBroker/ioBroker.git
+	shallow = true
+[submodule "software/iot/kalliope-project__kalliope"]
+	path = software/iot/kalliope-project__kalliope
+	url = https://github.com/kalliope-project/kalliope.git
+	shallow = true
+[submodule "software/iot/Koenkk__zigbee2mqtt"]
+	path = software/iot/Koenkk__zigbee2mqtt
+	url = https://github.com/Koenkk/zigbee2mqtt.git
+	shallow = true
+[submodule "software/iot/leon-ai__leon"]
+	path = software/iot/leon-ai__leon
+	url = https://github.com/leon-ai/leon.git
+	shallow = true
+[submodule "software/iot/louislam__uptime-kuma"]
+	path = software/iot/louislam__uptime-kuma
+	url = https://github.com/louislam/uptime-kuma.git
+	shallow = true
+[submodule "software/iot/MagicMirrorOrg__MagicMirror"]
+	path = software/iot/MagicMirrorOrg__MagicMirror
+	url = https://github.com/MagicMirrorOrg/MagicMirror.git
+	shallow = true
+[submodule "software/iot/merbanan__rtl_433"]
+	path = software/iot/merbanan__rtl_433
+	url = https://github.com/merbanan/rtl_433.git
+	shallow = true
+[submodule "software/iot/MichMich__MagicMirror"]
+	path = software/iot/MichMich__MagicMirror
+	url = https://github.com/MichMich/MagicMirror.git
+	shallow = true
+[submodule "software/iot/MycroftAI__enclosure-picroft"]
+	path = software/iot/MycroftAI__enclosure-picroft
+	url = https://github.com/MycroftAI/enclosure-picroft.git
+	shallow = true
+[submodule "software/iot/MycroftAI__mycroft-core"]
+	path = software/iot/MycroftAI__mycroft-core
+	url = https://github.com/MycroftAI/mycroft-core.git
+	shallow = true
+[submodule "software/iot/mysensors__MySensors"]
+	path = software/iot/mysensors__MySensors
+	url = https://github.com/mysensors/MySensors.git
+	shallow = true
+[submodule "software/iot/NeonGeckoCom__NeonCore"]
+	path = software/iot/NeonGeckoCom__NeonCore
+	url = https://github.com/NeonGeckoCom/NeonCore.git
+	shallow = true
+[submodule "software/iot/netdata__netdata"]
+	path = software/iot/netdata__netdata
+	url = https://github.com/netdata/netdata.git
+	shallow = true
+[submodule "software/iot/nicolargo__glances"]
+	path = software/iot/nicolargo__glances
+	url = https://github.com/nicolargo/glances.git
+	shallow = true
+[submodule "software/iot/node-red__linux-installers"]
+	path = software/iot/node-red__linux-installers
+	url = https://github.com/node-red/linux-installers.git
+	shallow = true
+[submodule "software/iot/node-red__node-red"]
+	path = software/iot/node-red__node-red
+	url = https://github.com/node-red/node-red.git
+	shallow = true
+[submodule "software/iot/node-red__node-red-nodes"]
+	path = software/iot/node-red__node-red-nodes
+	url = https://github.com/node-red/node-red-nodes.git
+	shallow = true
+[submodule "software/iot/node-red__raspbian-deb-package"]
+	path = software/iot/node-red__raspbian-deb-package
+	url = https://github.com/node-red/raspbian-deb-package.git
+	shallow = true
+[submodule "software/iot/nymea__nymea"]
+	path = software/iot/nymea__nymea
+	url = https://github.com/nymea/nymea.git
+	shallow = true
+[submodule "software/iot/openhab__openhab-core"]
+	path = software/iot/openhab__openhab-core
+	url = https://github.com/openhab/openhab-core.git
+	shallow = true
+[submodule "software/iot/openhab__openhab-distro"]
+	path = software/iot/openhab__openhab-distro
+	url = https://github.com/openhab/openhab-distro.git
+	shallow = true
+[submodule "software/iot/OpenVoiceOS__ovos-core"]
+	path = software/iot/OpenVoiceOS__ovos-core
+	url = https://github.com/OpenVoiceOS/ovos-core.git
+	shallow = true
+[submodule "software/iot/OpenVoiceOS__ovos-installer"]
+	path = software/iot/OpenVoiceOS__ovos-installer
+	url = https://github.com/OpenVoiceOS/ovos-installer.git
+	shallow = true
+[submodule "software/iot/OpenVoiceOS__raspOVOS"]
+	path = software/iot/OpenVoiceOS__raspOVOS
+	url = https://github.com/OpenVoiceOS/raspOVOS.git
+	shallow = true
+[submodule "software/iot/prometheus__node_exporter"]
+	path = software/iot/prometheus__node_exporter
+	url = https://github.com/prometheus/node_exporter.git
+	shallow = true
+[submodule "software/iot/prometheus__prometheus"]
+	path = software/iot/prometheus__prometheus
+	url = https://github.com/prometheus/prometheus.git
+	shallow = true
+[submodule "software/iot/rhasspy__piper"]
+	path = software/iot/rhasspy__piper
+	url = https://github.com/rhasspy/piper.git
+	shallow = true
+[submodule "software/iot/rhasspy__rhasspy"]
+	path = software/iot/rhasspy__rhasspy
+	url = https://github.com/rhasspy/rhasspy.git
+	shallow = true
+[submodule "software/iot/rhasspy__rhasspy3"]
+	path = software/iot/rhasspy__rhasspy3
+	url = https://github.com/rhasspy/rhasspy3.git
+	shallow = true
+[submodule "software/iot/rhasspy__wyoming"]
+	path = software/iot/rhasspy__wyoming
+	url = https://github.com/rhasspy/wyoming.git
+	shallow = true
+[submodule "software/iot/rhasspy__wyoming-faster-whisper"]
+	path = software/iot/rhasspy__wyoming-faster-whisper
+	url = https://github.com/rhasspy/wyoming-faster-whisper.git
+	shallow = true
+[submodule "software/iot/rhasspy__wyoming-openwakeword"]
+	path = software/iot/rhasspy__wyoming-openwakeword
+	url = https://github.com/rhasspy/wyoming-openwakeword.git
+	shallow = true
+[submodule "software/iot/rhasspy__wyoming-satellite"]
+	path = software/iot/rhasspy__wyoming-satellite
+	url = https://github.com/rhasspy/wyoming-satellite.git
+	shallow = true
+[submodule "software/iot/sdetweil__MagicMirror_scripts"]
+	path = software/iot/sdetweil__MagicMirror_scripts
+	url = https://github.com/sdetweil/MagicMirror_scripts.git
+	shallow = true
+[submodule "software/iot/thingsboard__thingsboard"]
+	path = software/iot/thingsboard__thingsboard
+	url = https://github.com/thingsboard/thingsboard.git
+	shallow = true
+[submodule "software/iot/weewx__weewx"]
+	path = software/iot/weewx__weewx
+	url = https://github.com/weewx/weewx.git
+	shallow = true
+[submodule "software/iot/XavierBerger__RPi-Monitor"]
+	path = software/iot/XavierBerger__RPi-Monitor
+	url = https://github.com/XavierBerger/RPi-Monitor.git
+	shallow = true
+[submodule "software/iot/zigbee2mqtt__hassio-zigbee2mqtt"]
+	path = software/iot/zigbee2mqtt__hassio-zigbee2mqtt
+	url = https://github.com/zigbee2mqtt/hassio-zigbee2mqtt.git
+	shallow = true
+[submodule "software/iot/zwave-js__node-zwave-js"]
+	path = software/iot/zwave-js__node-zwave-js
+	url = https://github.com/zwave-js/node-zwave-js.git
+	shallow = true
+[submodule "software/iot/zwave-js__zwave-js-ui"]
+	path = software/iot/zwave-js__zwave-js-ui
+	url = https://github.com/zwave-js/zwave-js-ui.git
+	shallow = true
+[submodule "software/media/aler9__rtsp-simple-server"]
+	path = software/media/aler9__rtsp-simple-server
+	url = https://github.com/aler9/rtsp-simple-server.git
+	shallow = true
+[submodule "software/media/AlexxIT__go2rtc"]
+	path = software/media/AlexxIT__go2rtc
+	url = https://github.com/AlexxIT/go2rtc.git
+	shallow = true
+[submodule "software/media/Arkq__bluez-alsa"]
+	path = software/media/Arkq__bluez-alsa
+	url = https://github.com/Arkq/bluez-alsa.git
+	shallow = true
+[submodule "software/media/ayufan__camera-streamer"]
+	path = software/media/ayufan__camera-streamer
+	url = https://github.com/ayufan/camera-streamer.git
+	shallow = true
+[submodule "software/media/badaix__snapcast"]
+	path = software/media/badaix__snapcast
+	url = https://github.com/badaix/snapcast.git
+	shallow = true
+[submodule "software/media/balena-io-experimental__balena-sound"]
+	path = software/media/balena-io-experimental__balena-sound
+	url = https://github.com/balena-io-experimental/balena-sound.git
+	shallow = true
+[submodule "software/media/balena-labs-projects__balena-sound"]
+	path = software/media/balena-labs-projects__balena-sound
+	url = https://github.com/balena-labs-projects/balena-sound.git
+	shallow = true
+[submodule "software/media/blakeblackshear__frigate"]
+	path = software/media/blakeblackshear__frigate
+	url = https://github.com/blakeblackshear/frigate.git
+	shallow = true
+[submodule "software/media/bluenviron__mediamtx"]
+	path = software/media/bluenviron__mediamtx
+	url = https://github.com/bluenviron/mediamtx.git
+	shallow = true
+[submodule "software/media/ccrisan__motioneye"]
+	path = software/media/ccrisan__motioneye
+	url = https://github.com/ccrisan/motioneye.git
+	shallow = true
+[submodule "software/media/dtcooper__raspotify"]
+	path = software/media/dtcooper__raspotify
+	url = https://github.com/dtcooper/raspotify.git
+	shallow = true
+[submodule "software/media/immich-app__immich"]
+	path = software/media/immich-app__immich
+	url = https://github.com/immich-app/immich.git
+	shallow = true
+[submodule "software/media/jacksonliam__mjpg-streamer"]
+	path = software/media/jacksonliam__mjpg-streamer
+	url = https://github.com/jacksonliam/mjpg-streamer.git
+	shallow = true
+[submodule "software/media/jaedb__Iris"]
+	path = software/media/jaedb__Iris
+	url = https://github.com/jaedb/Iris.git
+	shallow = true
+[submodule "software/media/jellyfin__jellyfin"]
+	path = software/media/jellyfin__jellyfin
+	url = https://github.com/jellyfin/jellyfin.git
+	shallow = true
+[submodule "software/media/jellyfin__jellyfin-web"]
+	path = software/media/jellyfin__jellyfin-web
+	url = https://github.com/jellyfin/jellyfin-web.git
+	shallow = true
+[submodule "software/media/kerberos-io__agent"]
+	path = software/media/kerberos-io__agent
+	url = https://github.com/kerberos-io/agent.git
+	shallow = true
+[submodule "software/media/librespot-org__librespot"]
+	path = software/media/librespot-org__librespot
+	url = https://github.com/librespot-org/librespot.git
+	shallow = true
+[submodule "software/media/LMS-Community__slimserver"]
+	path = software/media/LMS-Community__slimserver
+	url = https://github.com/LMS-Community/slimserver.git
+	shallow = true
+[submodule "software/media/MiczFlor__RPi-Jukebox-RFID"]
+	path = software/media/MiczFlor__RPi-Jukebox-RFID
+	url = https://github.com/MiczFlor/RPi-Jukebox-RFID.git
+	shallow = true
+[submodule "software/media/mikebrady__shairport-sync"]
+	path = software/media/mikebrady__shairport-sync
+	url = https://github.com/mikebrady/shairport-sync.git
+	shallow = true
+[submodule "software/media/mopidy__mopidy"]
+	path = software/media/mopidy__mopidy
+	url = https://github.com/mopidy/mopidy.git
+	shallow = true
+[submodule "software/media/Motion-Project__motion"]
+	path = software/media/Motion-Project__motion
+	url = https://github.com/Motion-Project/motion.git
+	shallow = true
+[submodule "software/media/motioneye-project__motioneye"]
+	path = software/media/motioneye-project__motioneye
+	url = https://github.com/motioneye-project/motioneye.git
+	shallow = true
+[submodule "software/media/mpv-player__mpv"]
+	path = software/media/mpv-player__mpv
+	url = https://github.com/mpv-player/mpv.git
+	shallow = true
+[submodule "software/media/MusicPlayerDaemon__MPD"]
+	path = software/media/MusicPlayerDaemon__MPD
+	url = https://github.com/MusicPlayerDaemon/MPD.git
+	shallow = true
+[submodule "software/media/navidrome__navidrome"]
+	path = software/media/navidrome__navidrome
+	url = https://github.com/navidrome/navidrome.git
+	shallow = true
+[submodule "software/media/owntone__owntone-server"]
+	path = software/media/owntone__owntone-server
+	url = https://github.com/owntone/owntone-server.git
+	shallow = true
+[submodule "software/media/PhotoPrism__photoprism"]
+	path = software/media/PhotoPrism__photoprism
+	url = https://github.com/PhotoPrism/photoprism.git
+	shallow = true
+[submodule "software/media/pikvm__kvmd"]
+	path = software/media/pikvm__kvmd
+	url = https://github.com/pikvm/kvmd.git
+	shallow = true
+[submodule "software/media/pikvm__os"]
+	path = software/media/pikvm__os
+	url = https://github.com/pikvm/os.git
+	shallow = true
+[submodule "software/media/pikvm__pikvm"]
+	path = software/media/pikvm__pikvm
+	url = https://github.com/pikvm/pikvm.git
+	shallow = true
+[submodule "software/media/pikvm__ustreamer"]
+	path = software/media/pikvm__ustreamer
+	url = https://github.com/pikvm/ustreamer.git
+	shallow = true
+[submodule "software/media/popcornmix__omxplayer"]
+	path = software/media/popcornmix__omxplayer
+	url = https://github.com/popcornmix/omxplayer.git
+	shallow = true
+[submodule "software/media/ralph-irving__squeezelite"]
+	path = software/media/ralph-irving__squeezelite
+	url = https://github.com/ralph-irving/squeezelite.git
+	shallow = true
+[submodule "software/media/silvanmelchior__RPi_Cam_Web_Interface"]
+	path = software/media/silvanmelchior__RPi_Cam_Web_Interface
+	url = https://github.com/silvanmelchior/RPi_Cam_Web_Interface.git
+	shallow = true
+[submodule "software/media/sonic-pi-net__sonic-pi"]
+	path = software/media/sonic-pi-net__sonic-pi
+	url = https://github.com/sonic-pi-net/sonic-pi.git
+	shallow = true
+[submodule "software/media/spocon__spocon"]
+	path = software/media/spocon__spocon
+	url = https://github.com/spocon/spocon.git
+	shallow = true
+[submodule "software/media/tiny-pilot__tinypilot"]
+	path = software/media/tiny-pilot__tinypilot
+	url = https://github.com/tiny-pilot/tinypilot.git
+	shallow = true
+[submodule "software/media/volumio__Volumio2"]
+	path = software/media/volumio__Volumio2
+	url = https://github.com/volumio/Volumio2.git
+	shallow = true
+[submodule "software/media/volumio__volumio3-backend"]
+	path = software/media/volumio__volumio3-backend
+	url = https://github.com/volumio/volumio3-backend.git
+	shallow = true
+[submodule "software/media/ZoneMinder__zoneminder"]
+	path = software/media/ZoneMinder__zoneminder
+	url = https://github.com/ZoneMinder/zoneminder.git
+	shallow = true
+[submodule "software/network/AdguardTeam__AdGuardHome"]
+	path = software/network/AdguardTeam__AdGuardHome
+	url = https://github.com/AdguardTeam/AdGuardHome.git
+	shallow = true
+[submodule "software/network/angristan__wireguard-install"]
+	path = software/network/angristan__wireguard-install
+	url = https://github.com/angristan/wireguard-install.git
+	shallow = true
+[submodule "software/network/balena-io__wifi-connect"]
+	path = software/network/balena-io__wifi-connect
+	url = https://github.com/balena-io/wifi-connect.git
+	shallow = true
+[submodule "software/network/balena-os__wifi-connect"]
+	path = software/network/balena-os__wifi-connect
+	url = https://github.com/balena-os/wifi-connect.git
+	shallow = true
+[submodule "software/network/billz__raspap-webgui"]
+	path = software/network/billz__raspap-webgui
+	url = https://github.com/billz/raspap-webgui.git
+	shallow = true
+[submodule "software/network/bitcoin__bitcoin"]
+	path = software/network/bitcoin__bitcoin
+	url = https://github.com/bitcoin/bitcoin.git
+	shallow = true
+[submodule "software/network/cloudflare__cloudflared"]
+	path = software/network/cloudflare__cloudflared
+	url = https://github.com/cloudflare/cloudflared.git
+	shallow = true
+[submodule "software/network/ElementsProject__lightning"]
+	path = software/network/ElementsProject__lightning
+	url = https://github.com/ElementsProject/lightning.git
+	shallow = true
+[submodule "software/network/ipfs__kubo"]
+	path = software/network/ipfs__kubo
+	url = https://github.com/ipfs/kubo.git
+	shallow = true
+[submodule "software/network/jasbur__RaspiWiFi"]
+	path = software/network/jasbur__RaspiWiFi
+	url = https://github.com/jasbur/RaspiWiFi.git
+	shallow = true
+[submodule "software/network/juanfont__headscale"]
+	path = software/network/juanfont__headscale
+	url = https://github.com/juanfont/headscale.git
+	shallow = true
+[submodule "software/network/lakinduakash__linux-wifi-hotspot"]
+	path = software/network/lakinduakash__linux-wifi-hotspot
+	url = https://github.com/lakinduakash/linux-wifi-hotspot.git
+	shallow = true
+[submodule "software/network/lightningnetwork__lnd"]
+	path = software/network/lightningnetwork__lnd
+	url = https://github.com/lightningnetwork/lnd.git
+	shallow = true
+[submodule "software/network/markqvist__NomadNet"]
+	path = software/network/markqvist__NomadNet
+	url = https://github.com/markqvist/NomadNet.git
+	shallow = true
+[submodule "software/network/markqvist__Reticulum"]
+	path = software/network/markqvist__Reticulum
+	url = https://github.com/markqvist/Reticulum.git
+	shallow = true
+[submodule "software/network/meshtastic__firmware"]
+	path = software/network/meshtastic__firmware
+	url = https://github.com/meshtastic/firmware.git
+	shallow = true
+[submodule "software/network/meshtastic__python"]
+	path = software/network/meshtastic__python
+	url = https://github.com/meshtastic/python.git
+	shallow = true
+[submodule "software/network/monero-project__monero"]
+	path = software/network/monero-project__monero
+	url = https://github.com/monero-project/monero.git
+	shallow = true
+[submodule "software/network/mynodebtc__mynode"]
+	path = software/network/mynodebtc__mynode
+	url = https://github.com/mynodebtc/mynode.git
+	shallow = true
+[submodule "software/network/netatalk__netatalk"]
+	path = software/network/netatalk__netatalk
+	url = https://github.com/netatalk/netatalk.git
+	shallow = true
+[submodule "software/network/netbootxyz__netboot.xyz"]
+	path = software/network/netbootxyz__netboot.xyz
+	url = https://github.com/netbootxyz/netboot.xyz.git
+	shallow = true
+[submodule "software/network/NLnetLabs__unbound"]
+	path = software/network/NLnetLabs__unbound
+	url = https://github.com/NLnetLabs/unbound.git
+	shallow = true
+[submodule "software/network/ntop__ntopng"]
+	path = software/network/ntop__ntopng
+	url = https://github.com/ntop/ntopng.git
+	shallow = true
+[submodule "software/network/Nyr__openvpn-install"]
+	path = software/network/Nyr__openvpn-install
+	url = https://github.com/Nyr/openvpn-install.git
+	shallow = true
+[submodule "software/network/oblique__create_ap"]
+	path = software/network/oblique__create_ap
+	url = https://github.com/oblique/create_ap.git
+	shallow = true
+[submodule "software/network/OpenVPN__openvpn"]
+	path = software/network/OpenVPN__openvpn
+	url = https://github.com/OpenVPN/openvpn.git
+	shallow = true
+[submodule "software/network/pi-hole__docker-pi-hole"]
+	path = software/network/pi-hole__docker-pi-hole
+	url = https://github.com/pi-hole/docker-pi-hole.git
+	shallow = true
+[submodule "software/network/pi-hole__FTL"]
+	path = software/network/pi-hole__FTL
+	url = https://github.com/pi-hole/FTL.git
+	shallow = true
+[submodule "software/network/pi-hole__pi-hole"]
+	path = software/network/pi-hole__pi-hole
+	url = https://github.com/pi-hole/pi-hole.git
+	shallow = true
+[submodule "software/network/pi-hole__web"]
+	path = software/network/pi-hole__web
+	url = https://github.com/pi-hole/web.git
+	shallow = true
+[submodule "software/network/pivpn__pivpn"]
+	path = software/network/pivpn__pivpn
+	url = https://github.com/pivpn/pivpn.git
+	shallow = true
+[submodule "software/network/Prowlarr__Prowlarr"]
+	path = software/network/Prowlarr__Prowlarr
+	url = https://github.com/Prowlarr/Prowlarr.git
+	shallow = true
+[submodule "software/network/qbittorrent__qBittorrent"]
+	path = software/network/qbittorrent__qBittorrent
+	url = https://github.com/qbittorrent/qBittorrent.git
+	shallow = true
+[submodule "software/network/Radarr__Radarr"]
+	path = software/network/Radarr__Radarr
+	url = https://github.com/Radarr/Radarr.git
+	shallow = true
+[submodule "software/network/raspiblitz__raspiblitz"]
+	path = software/network/raspiblitz__raspiblitz
+	url = https://github.com/raspiblitz/raspiblitz.git
+	shallow = true
+[submodule "software/network/raspibolt__raspibolt"]
+	path = software/network/raspibolt__raspibolt
+	url = https://github.com/raspibolt/raspibolt.git
+	shallow = true
+[submodule "software/network/rclone__rclone"]
+	path = software/network/rclone__rclone
+	url = https://github.com/rclone/rclone.git
+	shallow = true
+[submodule "software/network/rootzoll__raspiblitz"]
+	path = software/network/rootzoll__raspiblitz
+	url = https://github.com/rootzoll/raspiblitz.git
+	shallow = true
+[submodule "software/network/sabhiram__raspberry-wifi-conf"]
+	path = software/network/sabhiram__raspberry-wifi-conf
+	url = https://github.com/sabhiram/raspberry-wifi-conf.git
+	shallow = true
+[submodule "software/network/samba-team__samba"]
+	path = software/network/samba-team__samba
+	url = https://github.com/samba-team/samba.git
+	shallow = true
+[submodule "software/network/Sonarr__Sonarr"]
+	path = software/network/Sonarr__Sonarr
+	url = https://github.com/Sonarr/Sonarr.git
+	shallow = true
+[submodule "software/network/Start9Labs__embassy-os"]
+	path = software/network/Start9Labs__embassy-os
+	url = https://github.com/Start9Labs/embassy-os.git
+	shallow = true
+[submodule "software/network/Start9Labs__start-os"]
+	path = software/network/Start9Labs__start-os
+	url = https://github.com/Start9Labs/start-os.git
+	shallow = true
+[submodule "software/network/syncthing__syncthing"]
+	path = software/network/syncthing__syncthing
+	url = https://github.com/syncthing/syncthing.git
+	shallow = true
+[submodule "software/network/tailscale__tailscale"]
+	path = software/network/tailscale__tailscale
+	url = https://github.com/tailscale/tailscale.git
+	shallow = true
+[submodule "software/network/transmission__transmission"]
+	path = software/network/transmission__transmission
+	url = https://github.com/transmission/transmission.git
+	shallow = true
+[submodule "software/network/wg-easy__wg-easy"]
+	path = software/network/wg-easy__wg-easy
+	url = https://github.com/wg-easy/wg-easy.git
+	shallow = true
+[submodule "software/network/WireGuard__wireguard-tools"]
+	path = software/network/WireGuard__wireguard-tools
+	url = https://github.com/WireGuard/wireguard-tools.git
+	shallow = true
+[submodule "software/network/yggdrasil-network__yggdrasil-go"]
+	path = software/network/yggdrasil-network__yggdrasil-go
+	url = https://github.com/yggdrasil-network/yggdrasil-go.git
+	shallow = true
+[submodule "software/network/ZeroTier__ZeroTierOne"]
+	path = software/network/ZeroTier__ZeroTierOne
+	url = https://github.com/ZeroTier/ZeroTierOne.git
+	shallow = true
+[submodule "software/official/raspberrypi__bookworm-feedback"]
+	path = software/official/raspberrypi__bookworm-feedback
+	url = https://github.com/raspberrypi/bookworm-feedback.git
+	shallow = true
+[submodule "software/official/raspberrypi__documentation"]
+	path = software/official/raspberrypi__documentation
+	url = https://github.com/raspberrypi/documentation.git
+	shallow = true
+[submodule "software/official/raspberrypi__firmware"]
+	path = software/official/raspberrypi__firmware
+	url = https://github.com/raspberrypi/firmware.git
+	shallow = true
+[submodule "software/official/raspberrypi__hats"]
+	path = software/official/raspberrypi__hats
+	url = https://github.com/raspberrypi/hats.git
+	shallow = true
+[submodule "software/official/raspberrypi__libcamera"]
+	path = software/official/raspberrypi__libcamera
+	url = https://github.com/raspberrypi/libcamera.git
+	shallow = true
+[submodule "software/official/raspberrypi__libpisp"]
+	path = software/official/raspberrypi__libpisp
+	url = https://github.com/raspberrypi/libpisp.git
+	shallow = true
+[submodule "software/official/raspberrypi__linux"]
+	path = software/official/raspberrypi__linux
+	url = https://github.com/raspberrypi/linux.git
+	shallow = true
+[submodule "software/official/raspberrypi__noobs"]
+	path = software/official/raspberrypi__noobs
+	url = https://github.com/raspberrypi/noobs.git
+	shallow = true
+[submodule "software/official/raspberrypi__pi-gen-micro"]
+	path = software/official/raspberrypi__pi-gen-micro
+	url = https://github.com/raspberrypi/pi-gen-micro.git
+	shallow = true
+[submodule "software/official/raspberrypi__picamera2"]
+	path = software/official/raspberrypi__picamera2
+	url = https://github.com/raspberrypi/picamera2.git
+	shallow = true
+[submodule "software/official/raspberrypi__rc_gui"]
+	path = software/official/raspberrypi__rc_gui
+	url = https://github.com/raspberrypi/rc_gui.git
+	shallow = true
+[submodule "software/official/raspberrypi__rpi-eeprom"]
+	path = software/official/raspberrypi__rpi-eeprom
+	url = https://github.com/raspberrypi/rpi-eeprom.git
+	shallow = true
+[submodule "software/official/raspberrypi__rpi-firmware"]
+	path = software/official/raspberrypi__rpi-firmware
+	url = https://github.com/raspberrypi/rpi-firmware.git
+	shallow = true
+[submodule "software/official/raspberrypi__rpi-image-gen"]
+	path = software/official/raspberrypi__rpi-image-gen
+	url = https://github.com/raspberrypi/rpi-image-gen.git
+	shallow = true
+[submodule "software/official/raspberrypi__rpi-imager"]
+	path = software/official/raspberrypi__rpi-imager
+	url = https://github.com/raspberrypi/rpi-imager.git
+	shallow = true
+[submodule "software/official/raspberrypi__rpi-keyboard-config"]
+	path = software/official/raspberrypi__rpi-keyboard-config
+	url = https://github.com/raspberrypi/rpi-keyboard-config.git
+	shallow = true
+[submodule "software/official/raspberrypi__rpi-sb-provisioner"]
+	path = software/official/raspberrypi__rpi-sb-provisioner
+	url = https://github.com/raspberrypi/rpi-sb-provisioner.git
+	shallow = true
+[submodule "software/official/raspberrypi__rpi-sense"]
+	path = software/official/raspberrypi__rpi-sense
+	url = https://github.com/raspberrypi/rpi-sense.git
+	shallow = true
+[submodule "software/official/raspberrypi__rpi-update"]
+	path = software/official/raspberrypi__rpi-update
+	url = https://github.com/raspberrypi/rpi-update.git
+	shallow = true
+[submodule "software/official/raspberrypi__rpicam-apps"]
+	path = software/official/raspberrypi__rpicam-apps
+	url = https://github.com/raspberrypi/rpicam-apps.git
+	shallow = true
+[submodule "software/official/raspberrypi__scriptexecutor"]
+	path = software/official/raspberrypi__scriptexecutor
+	url = https://github.com/raspberrypi/scriptexecutor.git
+	shallow = true
+[submodule "software/official/raspberrypi__tools"]
+	path = software/official/raspberrypi__tools
+	url = https://github.com/raspberrypi/tools.git
+	shallow = true
+[submodule "software/official/raspberrypi__trixie-feedback"]
+	path = software/official/raspberrypi__trixie-feedback
+	url = https://github.com/raspberrypi/trixie-feedback.git
+	shallow = true
+[submodule "software/official/raspberrypi__usbboot"]
+	path = software/official/raspberrypi__usbboot
+	url = https://github.com/raspberrypi/usbboot.git
+	shallow = true
+[submodule "software/official/raspberrypi__userland"]
+	path = software/official/raspberrypi__userland
+	url = https://github.com/raspberrypi/userland.git
+	shallow = true
+[submodule "software/official/raspberrypi__utils"]
+	path = software/official/raspberrypi__utils
+	url = https://github.com/raspberrypi/utils.git
+	shallow = true
+[submodule "software/official/RaspberryPiFoundation__python-build-hat"]
+	path = software/official/RaspberryPiFoundation__python-build-hat
+	url = https://github.com/RaspberryPiFoundation/python-build-hat.git
+	shallow = true
+[submodule "software/official/RPi-Distro__firmware"]
+	path = software/official/RPi-Distro__firmware
+	url = https://github.com/RPi-Distro/firmware.git
+	shallow = true
+[submodule "software/official/RPi-Distro__pi-gen"]
+	path = software/official/RPi-Distro__pi-gen
+	url = https://github.com/RPi-Distro/pi-gen.git
+	shallow = true
+[submodule "software/official/RPi-Distro__python-gpiozero"]
+	path = software/official/RPi-Distro__python-gpiozero
+	url = https://github.com/RPi-Distro/python-gpiozero.git
+	shallow = true
+[submodule "software/official/RPi-Distro__raspberrypi-sys-mods"]
+	path = software/official/RPi-Distro__raspberrypi-sys-mods
+	url = https://github.com/RPi-Distro/raspberrypi-sys-mods.git
+	shallow = true
+[submodule "software/official/RPi-Distro__raspi-config"]
+	path = software/official/RPi-Distro__raspi-config
+	url = https://github.com/RPi-Distro/raspi-config.git
+	shallow = true
+[submodule "software/os/9front__9front"]
+	path = software/os/9front__9front
+	url = https://github.com/9front/9front.git
+	shallow = true
+[submodule "software/os/agherzan__meta-raspberrypi"]
+	path = software/os/agherzan__meta-raspberrypi
+	url = https://github.com/agherzan/meta-raspberrypi.git
+	shallow = true
+[submodule "software/os/AllskyTeam__allsky"]
+	path = software/os/AllskyTeam__allsky
+	url = https://github.com/AllskyTeam/allsky.git
+	shallow = true
+[submodule "software/os/android-rpi__local_manifests"]
+	path = software/os/android-rpi__local_manifests
+	url = https://github.com/android-rpi/local_manifests.git
+	shallow = true
+[submodule "software/os/archlinuxarm__PKGBUILDs"]
+	path = software/os/archlinuxarm__PKGBUILDs
+	url = https://github.com/archlinuxarm/PKGBUILDs.git
+	shallow = true
+[submodule "software/os/armbian__build"]
+	path = software/os/armbian__build
+	url = https://github.com/armbian/build.git
+	shallow = true
+[submodule "software/os/balena-io__etcher"]
+	path = software/os/balena-io__etcher
+	url = https://github.com/balena-io/etcher.git
+	shallow = true
+[submodule "software/os/balena-os__balena-raspberrypi"]
+	path = software/os/balena-os__balena-raspberrypi
+	url = https://github.com/balena-os/balena-raspberrypi.git
+	shallow = true
+[submodule "software/os/balena-os__meta-balena"]
+	path = software/os/balena-os__meta-balena
+	url = https://github.com/balena-os/meta-balena.git
+	shallow = true
+[submodule "software/os/batocera-linux__batocera-emulationstation"]
+	path = software/os/batocera-linux__batocera-emulationstation
+	url = https://github.com/batocera-linux/batocera-emulationstation.git
+	shallow = true
+[submodule "software/os/batocera-linux__batocera.linux"]
+	path = software/os/batocera-linux__batocera.linux
+	url = https://github.com/batocera-linux/batocera.linux.git
+	shallow = true
+[submodule "software/os/billw2__rpi-clone"]
+	path = software/os/billw2__rpi-clone
+	url = https://github.com/billw2/rpi-clone.git
+	shallow = true
+[submodule "software/os/BlackArch__blackarch"]
+	path = software/os/BlackArch__blackarch
+	url = https://github.com/BlackArch/blackarch.git
+	shallow = true
+[submodule "software/os/Botspot__pi-apps"]
+	path = software/os/Botspot__pi-apps
+	url = https://github.com/Botspot/pi-apps.git
+	shallow = true
+[submodule "software/os/buildroot__buildroot"]
+	path = software/os/buildroot__buildroot
+	url = https://github.com/buildroot/buildroot.git
+	shallow = true
+[submodule "software/os/bztsrc__raspi3-tutorial"]
+	path = software/os/bztsrc__raspi3-tutorial
+	url = https://github.com/bztsrc/raspi3-tutorial.git
+	shallow = true
+[submodule "software/os/colloqi__piSignage"]
+	path = software/os/colloqi__piSignage
+	url = https://github.com/colloqi/piSignage.git
+	shallow = true
+[submodule "software/os/colloqi__pisignage-server"]
+	path = software/os/colloqi__pisignage-server
+	url = https://github.com/colloqi/pisignage-server.git
+	shallow = true
+[submodule "software/os/davidferguson__pibakery"]
+	path = software/os/davidferguson__pibakery
+	url = https://github.com/davidferguson/pibakery.git
+	shallow = true
+[submodule "software/os/Drewsif__PiShrink"]
+	path = software/os/Drewsif__PiShrink
+	url = https://github.com/Drewsif/PiShrink.git
+	shallow = true
+[submodule "software/os/dwelch67__raspberrypi"]
+	path = software/os/dwelch67__raspberrypi
+	url = https://github.com/dwelch67/raspberrypi.git
+	shallow = true
+[submodule "software/os/dwelch67__raspberrypi-three"]
+	path = software/os/dwelch67__raspberrypi-three
+	url = https://github.com/dwelch67/raspberrypi-three.git
+	shallow = true
+[submodule "software/os/evilsocket__pwnagotchi"]
+	path = software/os/evilsocket__pwnagotchi
+	url = https://github.com/evilsocket/pwnagotchi.git
+	shallow = true
+[submodule "software/os/framps__raspiBackup"]
+	path = software/os/framps__raspiBackup
+	url = https://github.com/framps/raspiBackup.git
+	shallow = true
+[submodule "software/os/freebsd__freebsd-src"]
+	path = software/os/freebsd__freebsd-src
+	url = https://github.com/freebsd/freebsd-src.git
+	shallow = true
+[submodule "software/os/FydeOS__chromium_os-raspberry_pi"]
+	path = software/os/FydeOS__chromium_os-raspberry_pi
+	url = https://github.com/FydeOS/chromium_os-raspberry_pi.git
+	shallow = true
+[submodule "software/os/getumbrel__umbrel"]
+	path = software/os/getumbrel__umbrel
+	url = https://github.com/getumbrel/umbrel.git
+	shallow = true
+[submodule "software/os/guysoft__CustomPiOS"]
+	path = software/os/guysoft__CustomPiOS
+	url = https://github.com/guysoft/CustomPiOS.git
+	shallow = true
+[submodule "software/os/guysoft__FullPageOS"]
+	path = software/os/guysoft__FullPageOS
+	url = https://github.com/guysoft/FullPageOS.git
+	shallow = true
+[submodule "software/os/guysoft__OctoPi"]
+	path = software/os/guysoft__OctoPi
+	url = https://github.com/guysoft/OctoPi.git
+	shallow = true
+[submodule "software/os/haiku__haiku"]
+	path = software/os/haiku__haiku
+	url = https://github.com/haiku/haiku.git
+	shallow = true
+[submodule "software/os/hifiberry__hifiberry-os"]
+	path = software/os/hifiberry__hifiberry-os
+	url = https://github.com/hifiberry/hifiberry-os.git
+	shallow = true
+[submodule "software/os/home-assistant__operating-system"]
+	path = software/os/home-assistant__operating-system
+	url = https://github.com/home-assistant/operating-system.git
+	shallow = true
+[submodule "software/os/homebridge__homebridge-raspbian-image"]
+	path = software/os/homebridge__homebridge-raspbian-image
+	url = https://github.com/homebridge/homebridge-raspbian-image.git
+	shallow = true
+[submodule "software/os/IceWhaleTech__CasaOS"]
+	path = software/os/IceWhaleTech__CasaOS
+	url = https://github.com/IceWhaleTech/CasaOS.git
+	shallow = true
+[submodule "software/os/IceWhaleTech__ZimaOS"]
+	path = software/os/IceWhaleTech__ZimaOS
+	url = https://github.com/IceWhaleTech/ZimaOS.git
+	shallow = true
+[submodule "software/os/inferno-os__inferno-os"]
+	path = software/os/inferno-os__inferno-os
+	url = https://github.com/inferno-os/inferno-os.git
+	shallow = true
+[submodule "software/os/infinition__Bjorn"]
+	path = software/os/infinition__Bjorn
+	url = https://github.com/infinition/Bjorn.git
+	shallow = true
+[submodule "software/os/jayofelony__pwnagotchi"]
+	path = software/os/jayofelony__pwnagotchi
+	url = https://github.com/jayofelony/pwnagotchi.git
+	shallow = true
+[submodule "software/os/jiangcuo__Proxmox-Port"]
+	path = software/os/jiangcuo__Proxmox-Port
+	url = https://github.com/jiangcuo/Proxmox-Port.git
+	shallow = true
+[submodule "software/os/jiangcuo__pxvirt"]
+	path = software/os/jiangcuo__pxvirt
+	url = https://github.com/jiangcuo/pxvirt.git
+	shallow = true
+[submodule "software/os/jmcerrejon__PiKISS"]
+	path = software/os/jmcerrejon__PiKISS
+	url = https://github.com/jmcerrejon/PiKISS.git
+	shallow = true
+[submodule "software/os/jncronin__rpi-boot"]
+	path = software/os/jncronin__rpi-boot
+	url = https://github.com/jncronin/rpi-boot.git
+	shallow = true
+[submodule "software/os/LibreELEC__LibreELEC.tv"]
+	path = software/os/LibreELEC__LibreELEC.tv
+	url = https://github.com/LibreELEC/LibreELEC.tv.git
+	shallow = true
+[submodule "software/os/libretro__Lakka-LibreELEC"]
+	path = software/os/libretro__Lakka-LibreELEC
+	url = https://github.com/libretro/Lakka-LibreELEC.git
+	shallow = true
+[submodule "software/os/lineage-rpi__android_local_manifest"]
+	path = software/os/lineage-rpi__android_local_manifest
+	url = https://github.com/lineage-rpi/android_local_manifest.git
+	shallow = true
+[submodule "software/os/mainsail-crew__MainsailOS"]
+	path = software/os/mainsail-crew__MainsailOS
+	url = https://github.com/mainsail-crew/MainsailOS.git
+	shallow = true
+[submodule "software/os/mame82__P4wnP1"]
+	path = software/os/mame82__P4wnP1
+	url = https://github.com/mame82/P4wnP1.git
+	shallow = true
+[submodule "software/os/mame82__P4wnP1_aloa"]
+	path = software/os/mame82__P4wnP1_aloa
+	url = https://github.com/mame82/P4wnP1_aloa.git
+	shallow = true
+[submodule "software/os/manjaro-arm__rpi4-images"]
+	path = software/os/manjaro-arm__rpi4-images
+	url = https://github.com/manjaro-arm/rpi4-images.git
+	shallow = true
+[submodule "software/os/MichaIng__DietPi"]
+	path = software/os/MichaIng__DietPi
+	url = https://github.com/MichaIng/DietPi.git
+	shallow = true
+[submodule "software/os/moode-player__moode"]
+	path = software/os/moode-player__moode
+	url = https://github.com/moode-player/moode.git
+	shallow = true
+[submodule "software/os/motioneye-project__motioneyeos"]
+	path = software/os/motioneye-project__motioneyeos
+	url = https://github.com/motioneye-project/motioneyeos.git
+	shallow = true
+[submodule "software/os/mrvn__RaspberryPi-baremetal"]
+	path = software/os/mrvn__RaspberryPi-baremetal
+	url = https://github.com/mrvn/RaspberryPi-baremetal.git
+	shallow = true
+[submodule "software/os/ms-iot__samples"]
+	path = software/os/ms-iot__samples
+	url = https://github.com/ms-iot/samples.git
+	shallow = true
+[submodule "software/os/NetBSD__src"]
+	path = software/os/NetBSD__src
+	url = https://github.com/NetBSD/src.git
+	shallow = true
+[submodule "software/os/nextcloud__nextcloudpi"]
+	path = software/os/nextcloud__nextcloudpi
+	url = https://github.com/nextcloud/nextcloudpi.git
+	shallow = true
+[submodule "software/os/NixOS__nixos-hardware"]
+	path = software/os/NixOS__nixos-hardware
+	url = https://github.com/NixOS/nixos-hardware.git
+	shallow = true
+[submodule "software/os/nmcclain__raspberian-firstboot"]
+	path = software/os/nmcclain__raspberian-firstboot
+	url = https://github.com/nmcclain/raspberian-firstboot.git
+	shallow = true
+[submodule "software/os/nvmd__nixos-raspberrypi"]
+	path = software/os/nvmd__nixos-raspberrypi
+	url = https://github.com/nvmd/nixos-raspberrypi.git
+	shallow = true
+[submodule "software/os/openbsd__src"]
+	path = software/os/openbsd__src
+	url = https://github.com/openbsd/src.git
+	shallow = true
+[submodule "software/os/openfyde__overlay-rpi4-openfyde"]
+	path = software/os/openfyde__overlay-rpi4-openfyde
+	url = https://github.com/openfyde/overlay-rpi4-openfyde.git
+	shallow = true
+[submodule "software/os/openhab__openhabian"]
+	path = software/os/openhab__openhabian
+	url = https://github.com/openhab/openhabian.git
+	shallow = true
+[submodule "software/os/OpenMediaVault-Plugin-Developers__installScript"]
+	path = software/os/OpenMediaVault-Plugin-Developers__installScript
+	url = https://github.com/OpenMediaVault-Plugin-Developers/installScript.git
+	shallow = true
+[submodule "software/os/openmediavault__openmediavault"]
+	path = software/os/openmediavault__openmediavault
+	url = https://github.com/openmediavault/openmediavault.git
+	shallow = true
+[submodule "software/os/openwrt__openwrt"]
+	path = software/os/openwrt__openwrt
+	url = https://github.com/openwrt/openwrt.git
+	shallow = true
+[submodule "software/os/osmc__osmc"]
+	path = software/os/osmc__osmc
+	url = https://github.com/osmc/osmc.git
+	shallow = true
+[submodule "software/os/pftf__RPi3"]
+	path = software/os/pftf__RPi3
+	url = https://github.com/pftf/RPi3.git
+	shallow = true
+[submodule "software/os/pftf__RPi4"]
+	path = software/os/pftf__RPi4
+	url = https://github.com/pftf/RPi4.git
+	shallow = true
+[submodule "software/os/pimox__pimox7"]
+	path = software/os/pimox__pimox7
+	url = https://github.com/pimox/pimox7.git
+	shallow = true
+[submodule "software/os/PiRogueToolSuite__deb-packages"]
+	path = software/os/PiRogueToolSuite__deb-packages
+	url = https://github.com/PiRogueToolSuite/deb-packages.git
+	shallow = true
+[submodule "software/os/PiRogueToolSuite__pirogue-os"]
+	path = software/os/PiRogueToolSuite__pirogue-os
+	url = https://github.com/PiRogueToolSuite/pirogue-os.git
+	shallow = true
+[submodule "software/os/plan9foundation__plan9"]
+	path = software/os/plan9foundation__plan9
+	url = https://github.com/plan9foundation/plan9.git
+	shallow = true
+[submodule "software/os/RaspAP__raspap-webgui"]
+	path = software/os/RaspAP__raspap-webgui
+	url = https://github.com/RaspAP/raspap-webgui.git
+	shallow = true
+[submodule "software/os/RetroPie__EmulationStation"]
+	path = software/os/RetroPie__EmulationStation
+	url = https://github.com/RetroPie/EmulationStation.git
+	shallow = true
+[submodule "software/os/RetroPie__RetroPie-Setup"]
+	path = software/os/RetroPie__RetroPie-Setup
+	url = https://github.com/RetroPie/RetroPie-Setup.git
+	shallow = true
+[submodule "software/os/rlancaste__AstroPi3"]
+	path = software/os/rlancaste__AstroPi3
+	url = https://github.com/rlancaste/AstroPi3.git
+	shallow = true
+[submodule "software/os/RoganDawes__P4wnP1_aloa"]
+	path = software/os/RoganDawes__P4wnP1_aloa
+	url = https://github.com/RoganDawes/P4wnP1_aloa.git
+	shallow = true
+[submodule "software/os/rsta2__circle"]
+	path = software/os/rsta2__circle
+	url = https://github.com/rsta2/circle.git
+	shallow = true
+[submodule "software/os/RT-Thread__rt-thread"]
+	path = software/os/RT-Thread__rt-thread
+	url = https://github.com/RT-Thread/rt-thread.git
+	shallow = true
+[submodule "software/os/rust-embedded__rust-raspberrypi-OS-tutorials"]
+	path = software/os/rust-embedded__rust-raspberrypi-OS-tutorials
+	url = https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials.git
+	shallow = true
+[submodule "software/os/s-matyukevich__raspberry-pi-os"]
+	path = software/os/s-matyukevich__raspberry-pi-os
+	url = https://github.com/s-matyukevich/raspberry-pi-os.git
+	shallow = true
+[submodule "software/os/sakaki-__gentoo-on-rpi-64bit"]
+	path = software/os/sakaki-__gentoo-on-rpi-64bit
+	url = https://github.com/sakaki-/gentoo-on-rpi-64bit.git
+	shallow = true
+[submodule "software/os/Screenly__Anthias"]
+	path = software/os/Screenly__Anthias
+	url = https://github.com/Screenly/Anthias.git
+	shallow = true
+[submodule "software/os/seamusdemora__RonR-RPi-image-utils"]
+	path = software/os/seamusdemora__RonR-RPi-image-utils
+	url = https://github.com/seamusdemora/RonR-RPi-image-utils.git
+	shallow = true
+[submodule "software/os/thomasjacquin__allsky"]
+	path = software/os/thomasjacquin__allsky
+	url = https://github.com/thomasjacquin/allsky.git
+	shallow = true
+[submodule "software/os/TOLDOTECHNIK__buildroot-webkit"]
+	path = software/os/TOLDOTECHNIK__buildroot-webkit
+	url = https://github.com/TOLDOTECHNIK/buildroot-webkit.git
+	shallow = true
+[submodule "software/os/ultibohub__Core"]
+	path = software/os/ultibohub__Core
+	url = https://github.com/ultibohub/Core.git
+	shallow = true
+[submodule "software/os/ultibohub__FPC"]
+	path = software/os/ultibohub__FPC
+	url = https://github.com/ultibohub/FPC.git
+	shallow = true
+[submodule "software/os/void-linux__void-mklive"]
+	path = software/os/void-linux__void-mklive
+	url = https://github.com/void-linux/void-mklive.git
+	shallow = true
+[submodule "software/os/void-linux__void-packages"]
+	path = software/os/void-linux__void-packages
+	url = https://github.com/void-linux/void-packages.git
+	shallow = true
+[submodule "software/os/volumio__Build"]
+	path = software/os/volumio__Build
+	url = https://github.com/volumio/Build.git
+	shallow = true
+[submodule "software/os/volumio__volumio3-os"]
+	path = software/os/volumio__volumio3-os
+	url = https://github.com/volumio/volumio3-os.git
+	shallow = true
+[submodule "software/os/worproject__rpi5-uefi"]
+	path = software/os/worproject__rpi5-uefi
+	url = https://github.com/worproject/rpi5-uefi.git
+	shallow = true
+[submodule "software/os/xbmc__xbmc"]
+	path = software/os/xbmc__xbmc
+	url = https://github.com/xbmc/xbmc.git
+	shallow = true
+[submodule "software/os/YunoHost__yunohost"]
+	path = software/os/YunoHost__yunohost
+	url = https://github.com/YunoHost/yunohost.git
+	shallow = true
+[submodule "software/pico/adafruit__circuitpython"]
+	path = software/pico/adafruit__circuitpython
+	url = https://github.com/adafruit/circuitpython.git
+	shallow = true
+[submodule "software/pico/arduino__ArduinoCore-mbed"]
+	path = software/pico/arduino__ArduinoCore-mbed
+	url = https://github.com/arduino/ArduinoCore-mbed.git
+	shallow = true
+[submodule "software/pico/carlk3__no-OS-FatFS-SD-SPI-RPi-Pico"]
+	path = software/pico/carlk3__no-OS-FatFS-SD-SPI-RPi-Pico
+	url = https://github.com/carlk3/no-OS-FatFS-SD-SPI-RPi-Pico.git
+	shallow = true
+[submodule "software/pico/dhylands__rshell"]
+	path = software/pico/dhylands__rshell
+	url = https://github.com/dhylands/rshell.git
+	shallow = true
+[submodule "software/pico/earlephilhower__arduino-pico"]
+	path = software/pico/earlephilhower__arduino-pico
+	url = https://github.com/earlephilhower/arduino-pico.git
+	shallow = true
+[submodule "software/pico/embassy-rs__embassy"]
+	path = software/pico/embassy-rs__embassy
+	url = https://github.com/embassy-rs/embassy.git
+	shallow = true
+[submodule "software/pico/FreeRTOS__FreeRTOS-Kernel"]
+	path = software/pico/FreeRTOS__FreeRTOS-Kernel
+	url = https://github.com/FreeRTOS/FreeRTOS-Kernel.git
+	shallow = true
+[submodule "software/pico/hathach__tinyusb"]
+	path = software/pico/hathach__tinyusb
+	url = https://github.com/hathach/tinyusb.git
+	shallow = true
+[submodule "software/pico/micropython__micropython"]
+	path = software/pico/micropython__micropython
+	url = https://github.com/micropython/micropython.git
+	shallow = true
+[submodule "software/pico/micropython__micropython-lib"]
+	path = software/pico/micropython__micropython-lib
+	url = https://github.com/micropython/micropython-lib.git
+	shallow = true
+[submodule "software/pico/pimoroni__pico-boilerplate"]
+	path = software/pico/pimoroni__pico-boilerplate
+	url = https://github.com/pimoroni/pico-boilerplate.git
+	shallow = true
+[submodule "software/pico/pimoroni__pimoroni-pico"]
+	path = software/pico/pimoroni__pimoroni-pico
+	url = https://github.com/pimoroni/pimoroni-pico.git
+	shallow = true
+[submodule "software/pico/raspberrypi__debugprobe"]
+	path = software/pico/raspberrypi__debugprobe
+	url = https://github.com/raspberrypi/debugprobe.git
+	shallow = true
+[submodule "software/pico/raspberrypi__openocd"]
+	path = software/pico/raspberrypi__openocd
+	url = https://github.com/raspberrypi/openocd.git
+	shallow = true
+[submodule "software/pico/raspberrypi__pico-bootrom-rp2040"]
+	path = software/pico/raspberrypi__pico-bootrom-rp2040
+	url = https://github.com/raspberrypi/pico-bootrom-rp2040.git
+	shallow = true
+[submodule "software/pico/raspberrypi__pico-bootrom-rp2350"]
+	path = software/pico/raspberrypi__pico-bootrom-rp2350
+	url = https://github.com/raspberrypi/pico-bootrom-rp2350.git
+	shallow = true
+[submodule "software/pico/raspberrypi__pico-examples"]
+	path = software/pico/raspberrypi__pico-examples
+	url = https://github.com/raspberrypi/pico-examples.git
+	shallow = true
+[submodule "software/pico/raspberrypi__pico-extras"]
+	path = software/pico/raspberrypi__pico-extras
+	url = https://github.com/raspberrypi/pico-extras.git
+	shallow = true
+[submodule "software/pico/raspberrypi__pico-feedback"]
+	path = software/pico/raspberrypi__pico-feedback
+	url = https://github.com/raspberrypi/pico-feedback.git
+	shallow = true
+[submodule "software/pico/raspberrypi__pico-micropython-examples"]
+	path = software/pico/raspberrypi__pico-micropython-examples
+	url = https://github.com/raspberrypi/pico-micropython-examples.git
+	shallow = true
+[submodule "software/pico/raspberrypi__pico-playground"]
+	path = software/pico/raspberrypi__pico-playground
+	url = https://github.com/raspberrypi/pico-playground.git
+	shallow = true
+[submodule "software/pico/raspberrypi__pico-sdk"]
+	path = software/pico/raspberrypi__pico-sdk
+	url = https://github.com/raspberrypi/pico-sdk.git
+	shallow = true
+[submodule "software/pico/raspberrypi__pico-setup"]
+	path = software/pico/raspberrypi__pico-setup
+	url = https://github.com/raspberrypi/pico-setup.git
+	shallow = true
+[submodule "software/pico/raspberrypi__pico-setup-windows"]
+	path = software/pico/raspberrypi__pico-setup-windows
+	url = https://github.com/raspberrypi/pico-setup-windows.git
+	shallow = true
+[submodule "software/pico/raspberrypi__pico-vscode"]
+	path = software/pico/raspberrypi__pico-vscode
+	url = https://github.com/raspberrypi/pico-vscode.git
+	shallow = true
+[submodule "software/pico/raspberrypi__picotool"]
+	path = software/pico/raspberrypi__picotool
+	url = https://github.com/raspberrypi/picotool.git
+	shallow = true
+[submodule "software/pico/rp-rs__rp-hal"]
+	path = software/pico/rp-rs__rp-hal
+	url = https://github.com/rp-rs/rp-hal.git
+	shallow = true
+[submodule "software/pico/sekigon-gonnoc__Pico-PIO-USB"]
+	path = software/pico/sekigon-gonnoc__Pico-PIO-USB
+	url = https://github.com/sekigon-gonnoc/Pico-PIO-USB.git
+	shallow = true
+[submodule "software/pico/tinygo-org__tinygo"]
+	path = software/pico/tinygo-org__tinygo
+	url = https://github.com/tinygo-org/tinygo.git
+	shallow = true
+[submodule "software/pico/wokwi__rp2040js"]
+	path = software/pico/wokwi__rp2040js
+	url = https://github.com/wokwi/rp2040js.git
+	shallow = true
+[submodule "software/pico/Wren6991__PicoDVI"]
+	path = software/pico/Wren6991__PicoDVI
+	url = https://github.com/Wren6991/PicoDVI.git
+	shallow = true
+[submodule "software/pico/zephyrproject-rtos__zephyr"]
+	path = software/pico/zephyrproject-rtos__zephyr
+	url = https://github.com/zephyrproject-rtos/zephyr.git
+	shallow = true
+[submodule "software/print/Arksine__moonraker"]
+	path = software/print/Arksine__moonraker
+	url = https://github.com/Arksine/moonraker.git
+	shallow = true
+[submodule "software/print/cncjs__cncjs"]
+	path = software/print/cncjs__cncjs
+	url = https://github.com/cncjs/cncjs.git
+	shallow = true
+[submodule "software/print/DangerKlippers__danger-klipper"]
+	path = software/print/DangerKlippers__danger-klipper
+	url = https://github.com/DangerKlippers/danger-klipper.git
+	shallow = true
+[submodule "software/print/Donkie__Spoolman"]
+	path = software/print/Donkie__Spoolman
+	url = https://github.com/Donkie/Spoolman.git
+	shallow = true
+[submodule "software/print/dw-0__kiauh"]
+	path = software/print/dw-0__kiauh
+	url = https://github.com/dw-0/kiauh.git
+	shallow = true
+[submodule "software/print/fluidd-core__fluidd"]
+	path = software/print/fluidd-core__fluidd
+	url = https://github.com/fluidd-core/fluidd.git
+	shallow = true
+[submodule "software/print/Frix-x__klippain-shaketune"]
+	path = software/print/Frix-x__klippain-shaketune
+	url = https://github.com/Frix-x/klippain-shaketune.git
+	shallow = true
+[submodule "software/print/gnea__grbl"]
+	path = software/print/gnea__grbl
+	url = https://github.com/gnea/grbl.git
+	shallow = true
+[submodule "software/print/grblHAL__core"]
+	path = software/print/grblHAL__core
+	url = https://github.com/grblHAL/core.git
+	shallow = true
+[submodule "software/print/jordanruthe__KlipperScreen"]
+	path = software/print/jordanruthe__KlipperScreen
+	url = https://github.com/jordanruthe/KlipperScreen.git
+	shallow = true
+[submodule "software/print/KalicoCrew__kalico"]
+	path = software/print/KalicoCrew__kalico
+	url = https://github.com/KalicoCrew/kalico.git
+	shallow = true
+[submodule "software/print/Klipper3d__klipper"]
+	path = software/print/Klipper3d__klipper
+	url = https://github.com/Klipper3d/klipper.git
+	shallow = true
+[submodule "software/print/KlipperScreen__KlipperScreen"]
+	path = software/print/KlipperScreen__KlipperScreen
+	url = https://github.com/KlipperScreen/KlipperScreen.git
+	shallow = true
+[submodule "software/print/kyleisah__Klipper-Adaptive-Meshing-Purging"]
+	path = software/print/kyleisah__Klipper-Adaptive-Meshing-Purging
+	url = https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging.git
+	shallow = true
+[submodule "software/print/LinuxCNC__linuxcnc"]
+	path = software/print/LinuxCNC__linuxcnc
+	url = https://github.com/LinuxCNC/linuxcnc.git
+	shallow = true
+[submodule "software/print/mainsail-crew__crowsnest"]
+	path = software/print/mainsail-crew__crowsnest
+	url = https://github.com/mainsail-crew/crowsnest.git
+	shallow = true
+[submodule "software/print/mainsail-crew__mainsail"]
+	path = software/print/mainsail-crew__mainsail
+	url = https://github.com/mainsail-crew/mainsail.git
+	shallow = true
+[submodule "software/print/mainsail-crew__sonar"]
+	path = software/print/mainsail-crew__sonar
+	url = https://github.com/mainsail-crew/sonar.git
+	shallow = true
+[submodule "software/print/MarlinFirmware__Marlin"]
+	path = software/print/MarlinFirmware__Marlin
+	url = https://github.com/MarlinFirmware/Marlin.git
+	shallow = true
+[submodule "software/print/OctoPrint__OctoPi-UpToDate"]
+	path = software/print/OctoPrint__OctoPi-UpToDate
+	url = https://github.com/OctoPrint/OctoPi-UpToDate.git
+	shallow = true
+[submodule "software/print/OctoPrint__OctoPrint"]
+	path = software/print/OctoPrint__OctoPrint
+	url = https://github.com/OctoPrint/OctoPrint.git
+	shallow = true
+[submodule "software/print/OctoPrint__octoprint-docker"]
+	path = software/print/OctoPrint__octoprint-docker
+	url = https://github.com/OctoPrint/octoprint-docker.git
+	shallow = true
+[submodule "software/print/prusa3d__PrusaSlicer"]
+	path = software/print/prusa3d__PrusaSlicer
+	url = https://github.com/prusa3d/PrusaSlicer.git
+	shallow = true
+[submodule "software/print/SoftFever__OrcaSlicer"]
+	path = software/print/SoftFever__OrcaSlicer
+	url = https://github.com/SoftFever/OrcaSlicer.git
+	shallow = true
+[submodule "software/print/TheSpaghettiDetective__obico-server"]
+	path = software/print/TheSpaghettiDetective__obico-server
+	url = https://github.com/TheSpaghettiDetective/obico-server.git
+	shallow = true
+[submodule "software/print/Ultimaker__Cura"]
+	path = software/print/Ultimaker__Cura
+	url = https://github.com/Ultimaker/Cura.git
+	shallow = true
+[submodule "software/print/vlachoudis__bCNC"]
+	path = software/print/vlachoudis__bCNC
+	url = https://github.com/vlachoudis/bCNC.git
+	shallow = true
+[submodule "software/radio/ADSBexchange__adsbx-update"]
+	path = software/radio/ADSBexchange__adsbx-update
+	url = https://github.com/ADSBexchange/adsbx-update.git
+	shallow = true
+[submodule "software/radio/AlexandreRouma__SDRPlusPlus"]
+	path = software/radio/AlexandreRouma__SDRPlusPlus
+	url = https://github.com/AlexandreRouma/SDRPlusPlus.git
+	shallow = true
+[submodule "software/radio/AllStarLink__ASL3"]
+	path = software/radio/AllStarLink__ASL3
+	url = https://github.com/AllStarLink/ASL3.git
+	shallow = true
+[submodule "software/radio/altillimity__SatDump"]
+	path = software/radio/altillimity__SatDump
+	url = https://github.com/altillimity/SatDump.git
+	shallow = true
+[submodule "software/radio/AndyTaylorTweet__Pi-Star_DV_Dash"]
+	path = software/radio/AndyTaylorTweet__Pi-Star_DV_Dash
+	url = https://github.com/AndyTaylorTweet/Pi-Star_DV_Dash.git
+	shallow = true
+[submodule "software/radio/antirez__dump1090"]
+	path = software/radio/antirez__dump1090
+	url = https://github.com/antirez/dump1090.git
+	shallow = true
+[submodule "software/radio/charlie-foxtrot__RTLSDR-Airband"]
+	path = software/radio/charlie-foxtrot__RTLSDR-Airband
+	url = https://github.com/charlie-foxtrot/RTLSDR-Airband.git
+	shallow = true
+[submodule "software/radio/ChristopheJacquet__PiFmRds"]
+	path = software/radio/ChristopheJacquet__PiFmRds
+	url = https://github.com/ChristopheJacquet/PiFmRds.git
+	shallow = true
+[submodule "software/radio/dbdexter-dev__meteor_demod"]
+	path = software/radio/dbdexter-dev__meteor_demod
+	url = https://github.com/dbdexter-dev/meteor_demod.git
+	shallow = true
+[submodule "software/radio/dirkhh__adsb-feeder-image"]
+	path = software/radio/dirkhh__adsb-feeder-image
+	url = https://github.com/dirkhh/adsb-feeder-image.git
+	shallow = true
+[submodule "software/radio/dl9rdz__rdz_ttgo_sonde"]
+	path = software/radio/dl9rdz__rdz_ttgo_sonde
+	url = https://github.com/dl9rdz/rdz_ttgo_sonde.git
+	shallow = true
+[submodule "software/radio/EliasOenal__multimon-ng"]
+	path = software/radio/EliasOenal__multimon-ng
+	url = https://github.com/EliasOenal/multimon-ng.git
+	shallow = true
+[submodule "software/radio/f4exb__sdrangel"]
+	path = software/radio/f4exb__sdrangel
+	url = https://github.com/f4exb/sdrangel.git
+	shallow = true
+[submodule "software/radio/F5OEO__librpitx"]
+	path = software/radio/F5OEO__librpitx
+	url = https://github.com/F5OEO/librpitx.git
+	shallow = true
+[submodule "software/radio/F5OEO__rpitx"]
+	path = software/radio/F5OEO__rpitx
+	url = https://github.com/F5OEO/rpitx.git
+	shallow = true
+[submodule "software/radio/flightaware__dump1090"]
+	path = software/radio/flightaware__dump1090
+	url = https://github.com/flightaware/dump1090.git
+	shallow = true
+[submodule "software/radio/flightaware__piaware"]
+	path = software/radio/flightaware__piaware
+	url = https://github.com/flightaware/piaware.git
+	shallow = true
+[submodule "software/radio/flightaware__piaware_builder"]
+	path = software/radio/flightaware__piaware_builder
+	url = https://github.com/flightaware/piaware_builder.git
+	shallow = true
+[submodule "software/radio/g4klx__MMDVM"]
+	path = software/radio/g4klx__MMDVM
+	url = https://github.com/g4klx/MMDVM.git
+	shallow = true
+[submodule "software/radio/g4klx__MMDVMHost"]
+	path = software/radio/g4klx__MMDVMHost
+	url = https://github.com/g4klx/MMDVMHost.git
+	shallow = true
+[submodule "software/radio/gnuradio__gnuradio"]
+	path = software/radio/gnuradio__gnuradio
+	url = https://github.com/gnuradio/gnuradio.git
+	shallow = true
+[submodule "software/radio/gqrx-sdr__gqrx"]
+	path = software/radio/gqrx-sdr__gqrx
+	url = https://github.com/gqrx-sdr/gqrx.git
+	shallow = true
+[submodule "software/radio/greatscottgadgets__hackrf"]
+	path = software/radio/greatscottgadgets__hackrf
+	url = https://github.com/greatscottgadgets/hackrf.git
+	shallow = true
+[submodule "software/radio/Guenael__rtlsdr-wsprd"]
+	path = software/radio/Guenael__rtlsdr-wsprd
+	url = https://github.com/Guenael/rtlsdr-wsprd.git
+	shallow = true
+[submodule "software/radio/Hamlib__Hamlib"]
+	path = software/radio/Hamlib__Hamlib
+	url = https://github.com/Hamlib/Hamlib.git
+	shallow = true
+[submodule "software/radio/jgaeddert__liquid-dsp"]
+	path = software/radio/jgaeddert__liquid-dsp
+	url = https://github.com/jgaeddert/liquid-dsp.git
+	shallow = true
+[submodule "software/radio/jketterl__openwebrx"]
+	path = software/radio/jketterl__openwebrx
+	url = https://github.com/jketterl/openwebrx.git
+	shallow = true
+[submodule "software/radio/jopohl__urh"]
+	path = software/radio/jopohl__urh
+	url = https://github.com/jopohl/urh.git
+	shallow = true
+[submodule "software/radio/kgoba__ft8_lib"]
+	path = software/radio/kgoba__ft8_lib
+	url = https://github.com/kgoba/ft8_lib.git
+	shallow = true
+[submodule "software/radio/la5nta__pat"]
+	path = software/radio/la5nta__pat
+	url = https://github.com/la5nta/pat.git
+	shallow = true
+[submodule "software/radio/luarvique__openwebrx"]
+	path = software/radio/luarvique__openwebrx
+	url = https://github.com/luarvique/openwebrx.git
+	shallow = true
+[submodule "software/radio/markondej__fm_transmitter"]
+	path = software/radio/markondej__fm_transmitter
+	url = https://github.com/markondej/fm_transmitter.git
+	shallow = true
+[submodule "software/radio/miek__inspectrum"]
+	path = software/radio/miek__inspectrum
+	url = https://github.com/miek/inspectrum.git
+	shallow = true
+[submodule "software/radio/Nuand__bladeRF"]
+	path = software/radio/Nuand__bladeRF
+	url = https://github.com/Nuand/bladeRF.git
+	shallow = true
+[submodule "software/radio/osmocom__rtl-sdr"]
+	path = software/radio/osmocom__rtl-sdr
+	url = https://github.com/osmocom/rtl-sdr.git
+	shallow = true
+[submodule "software/radio/pothosware__SoapySDR"]
+	path = software/radio/pothosware__SoapySDR
+	url = https://github.com/pothosware/SoapySDR.git
+	shallow = true
+[submodule "software/radio/projecthorus__horusdemodlib"]
+	path = software/radio/projecthorus__horusdemodlib
+	url = https://github.com/projecthorus/horusdemodlib.git
+	shallow = true
+[submodule "software/radio/projecthorus__radiosonde_auto_rx"]
+	path = software/radio/projecthorus__radiosonde_auto_rx
+	url = https://github.com/projecthorus/radiosonde_auto_rx.git
+	shallow = true
+[submodule "software/radio/ptrkrysik__gr-gsm"]
+	path = software/radio/ptrkrysik__gr-gsm
+	url = https://github.com/ptrkrysik/gr-gsm.git
+	shallow = true
+[submodule "software/radio/rtlsdrblog__rtl-sdr-blog"]
+	path = software/radio/rtlsdrblog__rtl-sdr-blog
+	url = https://github.com/rtlsdrblog/rtl-sdr-blog.git
+	shallow = true
+[submodule "software/radio/SatDump__SatDump"]
+	path = software/radio/SatDump__SatDump
+	url = https://github.com/SatDump/SatDump.git
+	shallow = true
+[submodule "software/radio/sdr-enthusiasts__docker-adsb-ultrafeeder"]
+	path = software/radio/sdr-enthusiasts__docker-adsb-ultrafeeder
+	url = https://github.com/sdr-enthusiasts/docker-adsb-ultrafeeder.git
+	shallow = true
+[submodule "software/radio/steve-m__kalibrate-rtl"]
+	path = software/radio/steve-m__kalibrate-rtl
+	url = https://github.com/steve-m/kalibrate-rtl.git
+	shallow = true
+[submodule "software/radio/szpajder__dumpvdl2"]
+	path = software/radio/szpajder__dumpvdl2
+	url = https://github.com/szpajder/dumpvdl2.git
+	shallow = true
+[submodule "software/radio/szpajder__RTLSDR-Airband"]
+	path = software/radio/szpajder__RTLSDR-Airband
+	url = https://github.com/szpajder/RTLSDR-Airband.git
+	shallow = true
+[submodule "software/radio/TLeconte__acarsdec"]
+	path = software/radio/TLeconte__acarsdec
+	url = https://github.com/TLeconte/acarsdec.git
+	shallow = true
+[submodule "software/radio/wb2osz__direwolf"]
+	path = software/radio/wb2osz__direwolf
+	url = https://github.com/wb2osz/direwolf.git
+	shallow = true
+[submodule "software/radio/wiedehopf__graphs1090"]
+	path = software/radio/wiedehopf__graphs1090
+	url = https://github.com/wiedehopf/graphs1090.git
+	shallow = true
+[submodule "software/radio/wiedehopf__readsb"]
+	path = software/radio/wiedehopf__readsb
+	url = https://github.com/wiedehopf/readsb.git
+	shallow = true
+[submodule "software/radio/wiedehopf__tar1090"]
+	path = software/radio/wiedehopf__tar1090
+	url = https://github.com/wiedehopf/tar1090.git
+	shallow = true
+[submodule "software/security/aanarchyy__bully"]
+	path = software/security/aanarchyy__bully
+	url = https://github.com/aanarchyy/bully.git
+	shallow = true
+[submodule "software/security/AdamLaurie__RFIDIOt"]
+	path = software/security/AdamLaurie__RFIDIOt
+	url = https://github.com/AdamLaurie/RFIDIOt.git
+	shallow = true
+[submodule "software/security/aircrack-ng__aircrack-ng"]
+	path = software/security/aircrack-ng__aircrack-ng
+	url = https://github.com/aircrack-ng/aircrack-ng.git
+	shallow = true
+[submodule "software/security/aircrack-ng__rtl8812au"]
+	path = software/security/aircrack-ng__rtl8812au
+	url = https://github.com/aircrack-ng/rtl8812au.git
+	shallow = true
+[submodule "software/security/AlessandroZ__LaZagne"]
+	path = software/security/AlessandroZ__LaZagne
+	url = https://github.com/AlessandroZ/LaZagne.git
+	shallow = true
+[submodule "software/security/beefproject__beef"]
+	path = software/security/beefproject__beef
+	url = https://github.com/beefproject/beef.git
+	shallow = true
+[submodule "software/security/bettercap__bettercap"]
+	path = software/security/bettercap__bettercap
+	url = https://github.com/bettercap/bettercap.git
+	shallow = true
+[submodule "software/security/bettercap__caplets"]
+	path = software/security/bettercap__caplets
+	url = https://github.com/bettercap/caplets.git
+	shallow = true
+[submodule "software/security/BloodHoundAD__BloodHound"]
+	path = software/security/BloodHoundAD__BloodHound
+	url = https://github.com/BloodHoundAD/BloodHound.git
+	shallow = true
+[submodule "software/security/brainfucksec__kalitorify"]
+	path = software/security/brainfucksec__kalitorify
+	url = https://github.com/brainfucksec/kalitorify.git
+	shallow = true
+[submodule "software/security/breadtk__onion_pi"]
+	path = software/security/breadtk__onion_pi
+	url = https://github.com/breadtk/onion_pi.git
+	shallow = true
+[submodule "software/security/byt3bl33d3r__CrackMapExec"]
+	path = software/security/byt3bl33d3r__CrackMapExec
+	url = https://github.com/byt3bl33d3r/CrackMapExec.git
+	shallow = true
+[submodule "software/security/carlospolop__PEASS-ng"]
+	path = software/security/carlospolop__PEASS-ng
+	url = https://github.com/carlospolop/PEASS-ng.git
+	shallow = true
+[submodule "software/security/Cisco-Talos__clamav"]
+	path = software/security/Cisco-Talos__clamav
+	url = https://github.com/Cisco-Talos/clamav.git
+	shallow = true
+[submodule "software/security/CISOfy__lynis"]
+	path = software/security/CISOfy__lynis
+	url = https://github.com/CISOfy/lynis.git
+	shallow = true
+[submodule "software/security/commixproject__commix"]
+	path = software/security/commixproject__commix
+	url = https://github.com/commixproject/commix.git
+	shallow = true
+[submodule "software/security/cowrie__cowrie"]
+	path = software/security/cowrie__cowrie
+	url = https://github.com/cowrie/cowrie.git
+	shallow = true
+[submodule "software/security/crowdsecurity__crowdsec"]
+	path = software/security/crowdsecurity__crowdsec
+	url = https://github.com/crowdsecurity/crowdsec.git
+	shallow = true
+[submodule "software/security/danielmiessler__SecLists"]
+	path = software/security/danielmiessler__SecLists
+	url = https://github.com/danielmiessler/SecLists.git
+	shallow = true
+[submodule "software/security/DarkFlippers__unleashed-firmware"]
+	path = software/security/DarkFlippers__unleashed-firmware
+	url = https://github.com/DarkFlippers/unleashed-firmware.git
+	shallow = true
+[submodule "software/security/dbisu__pico-ducky"]
+	path = software/security/dbisu__pico-ducky
+	url = https://github.com/dbisu/pico-ducky.git
+	shallow = true
+[submodule "software/security/derv82__wifite2"]
+	path = software/security/derv82__wifite2
+	url = https://github.com/derv82/wifite2.git
+	shallow = true
+[submodule "software/security/DShield-ISC__dshield"]
+	path = software/security/DShield-ISC__dshield
+	url = https://github.com/DShield-ISC/dshield.git
+	shallow = true
+[submodule "software/security/epi052__feroxbuster"]
+	path = software/security/epi052__feroxbuster
+	url = https://github.com/epi052/feroxbuster.git
+	shallow = true
+[submodule "software/security/Ettercap__ettercap"]
+	path = software/security/Ettercap__ettercap
+	url = https://github.com/Ettercap/ettercap.git
+	shallow = true
+[submodule "software/security/evilsocket__arc"]
+	path = software/security/evilsocket__arc
+	url = https://github.com/evilsocket/arc.git
+	shallow = true
+[submodule "software/security/evilsocket__opensnitch"]
+	path = software/security/evilsocket__opensnitch
+	url = https://github.com/evilsocket/opensnitch.git
+	shallow = true
+[submodule "software/security/fail2ban__fail2ban"]
+	path = software/security/fail2ban__fail2ban
+	url = https://github.com/fail2ban/fail2ban.git
+	shallow = true
+[submodule "software/security/ffuf__ffuf"]
+	path = software/security/ffuf__ffuf
+	url = https://github.com/ffuf/ffuf.git
+	shallow = true
+[submodule "software/security/flipperdevices__flipperzero-firmware"]
+	path = software/security/flipperdevices__flipperzero-firmware
+	url = https://github.com/flipperdevices/flipperzero-firmware.git
+	shallow = true
+[submodule "software/security/FluxionNetwork__fluxion"]
+	path = software/security/FluxionNetwork__fluxion
+	url = https://github.com/FluxionNetwork/fluxion.git
+	shallow = true
+[submodule "software/security/fortra__impacket"]
+	path = software/security/fortra__impacket
+	url = https://github.com/fortra/impacket.git
+	shallow = true
+[submodule "software/security/Gallopsled__pwntools"]
+	path = software/security/Gallopsled__pwntools
+	url = https://github.com/Gallopsled/pwntools.git
+	shallow = true
+[submodule "software/security/gentilkiwi__mimikatz"]
+	path = software/security/gentilkiwi__mimikatz
+	url = https://github.com/gentilkiwi/mimikatz.git
+	shallow = true
+[submodule "software/security/gitleaks__gitleaks"]
+	path = software/security/gitleaks__gitleaks
+	url = https://github.com/gitleaks/gitleaks.git
+	shallow = true
+[submodule "software/security/greenbone__openvas-scanner"]
+	path = software/security/greenbone__openvas-scanner
+	url = https://github.com/greenbone/openvas-scanner.git
+	shallow = true
+[submodule "software/security/hak5__bashbunny-payloads"]
+	path = software/security/hak5__bashbunny-payloads
+	url = https://github.com/hak5/bashbunny-payloads.git
+	shallow = true
+[submodule "software/security/hak5__sharkjack-payloads"]
+	path = software/security/hak5__sharkjack-payloads
+	url = https://github.com/hak5/sharkjack-payloads.git
+	shallow = true
+[submodule "software/security/hak5__usbrubberducky-payloads"]
+	path = software/security/hak5__usbrubberducky-payloads
+	url = https://github.com/hak5/usbrubberducky-payloads.git
+	shallow = true
+[submodule "software/security/hashcat__hashcat"]
+	path = software/security/hashcat__hashcat
+	url = https://github.com/hashcat/hashcat.git
+	shallow = true
+[submodule "software/security/i2p__i2p.i2p"]
+	path = software/security/i2p__i2p.i2p
+	url = https://github.com/i2p/i2p.i2p.git
+	shallow = true
+[submodule "software/security/justcallmekoko__ESP32Marauder"]
+	path = software/security/justcallmekoko__ESP32Marauder
+	url = https://github.com/justcallmekoko/ESP32Marauder.git
+	shallow = true
+[submodule "software/security/kimocoder__wifite2"]
+	path = software/security/kimocoder__wifite2
+	url = https://github.com/kimocoder/wifite2.git
+	shallow = true
+[submodule "software/security/kismetwireless__kismet"]
+	path = software/security/kismetwireless__kismet
+	url = https://github.com/kismetwireless/kismet.git
+	shallow = true
+[submodule "software/security/lanmaster53__recon-ng"]
+	path = software/security/lanmaster53__recon-ng
+	url = https://github.com/lanmaster53/recon-ng.git
+	shallow = true
+[submodule "software/security/laramies__theHarvester"]
+	path = software/security/laramies__theHarvester
+	url = https://github.com/laramies/theHarvester.git
+	shallow = true
+[submodule "software/security/lgandx__Responder"]
+	path = software/security/lgandx__Responder
+	url = https://github.com/lgandx/Responder.git
+	shallow = true
+[submodule "software/security/LionSec__xerosploit"]
+	path = software/security/LionSec__xerosploit
+	url = https://github.com/LionSec/xerosploit.git
+	shallow = true
+[submodule "software/security/megadose__holehe"]
+	path = software/security/megadose__holehe
+	url = https://github.com/megadose/holehe.git
+	shallow = true
+[submodule "software/security/mitmproxy__mitmproxy"]
+	path = software/security/mitmproxy__mitmproxy
+	url = https://github.com/mitmproxy/mitmproxy.git
+	shallow = true
+[submodule "software/security/moxie0__sslstrip"]
+	path = software/security/moxie0__sslstrip
+	url = https://github.com/moxie0/sslstrip.git
+	shallow = true
+[submodule "software/security/mvt-project__mvt"]
+	path = software/security/mvt-project__mvt
+	url = https://github.com/mvt-project/mvt.git
+	shallow = true
+[submodule "software/security/mxrch__GHunt"]
+	path = software/security/mxrch__GHunt
+	url = https://github.com/mxrch/GHunt.git
+	shallow = true
+[submodule "software/security/NationalSecurityAgency__ghidra"]
+	path = software/security/NationalSecurityAgency__ghidra
+	url = https://github.com/NationalSecurityAgency/ghidra.git
+	shallow = true
+[submodule "software/security/nfc-tools__libnfc"]
+	path = software/security/nfc-tools__libnfc
+	url = https://github.com/nfc-tools/libnfc.git
+	shallow = true
+[submodule "software/security/nfc-tools__mfoc"]
+	path = software/security/nfc-tools__mfoc
+	url = https://github.com/nfc-tools/mfoc.git
+	shallow = true
+[submodule "software/security/nmap__nmap"]
+	path = software/security/nmap__nmap
+	url = https://github.com/nmap/nmap.git
+	shallow = true
+[submodule "software/security/OISF__suricata"]
+	path = software/security/OISF__suricata
+	url = https://github.com/OISF/suricata.git
+	shallow = true
+[submodule "software/security/OJ__gobuster"]
+	path = software/security/OJ__gobuster
+	url = https://github.com/OJ/gobuster.git
+	shallow = true
+[submodule "software/security/onionshare__onionshare"]
+	path = software/security/onionshare__onionshare
+	url = https://github.com/onionshare/onionshare.git
+	shallow = true
+[submodule "software/security/openwall__john"]
+	path = software/security/openwall__john
+	url = https://github.com/openwall/john.git
+	shallow = true
+[submodule "software/security/ossec__ossec-hids"]
+	path = software/security/ossec__ossec-hids
+	url = https://github.com/ossec/ossec-hids.git
+	shallow = true
+[submodule "software/security/P0cL4bs__wifipumpkin3"]
+	path = software/security/P0cL4bs__wifipumpkin3
+	url = https://github.com/P0cL4bs/wifipumpkin3.git
+	shallow = true
+[submodule "software/security/peass-ng__PEASS-ng"]
+	path = software/security/peass-ng__PEASS-ng
+	url = https://github.com/peass-ng/PEASS-ng.git
+	shallow = true
+[submodule "software/security/Pennyw0rth__NetExec"]
+	path = software/security/Pennyw0rth__NetExec
+	url = https://github.com/Pennyw0rth/NetExec.git
+	shallow = true
+[submodule "software/security/PiRogueToolSuite__pirogue-cli"]
+	path = software/security/PiRogueToolSuite__pirogue-cli
+	url = https://github.com/PiRogueToolSuite/pirogue-cli.git
+	shallow = true
+[submodule "software/security/PowerShellMafia__PowerSploit"]
+	path = software/security/PowerShellMafia__PowerSploit
+	url = https://github.com/PowerShellMafia/PowerSploit.git
+	shallow = true
+[submodule "software/security/projectdiscovery__httpx"]
+	path = software/security/projectdiscovery__httpx
+	url = https://github.com/projectdiscovery/httpx.git
+	shallow = true
+[submodule "software/security/projectdiscovery__nuclei"]
+	path = software/security/projectdiscovery__nuclei
+	url = https://github.com/projectdiscovery/nuclei.git
+	shallow = true
+[submodule "software/security/projectdiscovery__subfinder"]
+	path = software/security/projectdiscovery__subfinder
+	url = https://github.com/projectdiscovery/subfinder.git
+	shallow = true
+[submodule "software/security/Proxmark__proxmark3"]
+	path = software/security/Proxmark__proxmark3
+	url = https://github.com/Proxmark/proxmark3.git
+	shallow = true
+[submodule "software/security/PurpleI2P__i2pd"]
+	path = software/security/PurpleI2P__i2pd
+	url = https://github.com/PurpleI2P/i2pd.git
+	shallow = true
+[submodule "software/security/pwndbg__pwndbg"]
+	path = software/security/pwndbg__pwndbg
+	url = https://github.com/pwndbg/pwndbg.git
+	shallow = true
+[submodule "software/security/radareorg__radare2"]
+	path = software/security/radareorg__radare2
+	url = https://github.com/radareorg/radare2.git
+	shallow = true
+[submodule "software/security/rapid7__metasploit-framework"]
+	path = software/security/rapid7__metasploit-framework
+	url = https://github.com/rapid7/metasploit-framework.git
+	shallow = true
+[submodule "software/security/RfidResearchGroup__proxmark3"]
+	path = software/security/RfidResearchGroup__proxmark3
+	url = https://github.com/RfidResearchGroup/proxmark3.git
+	shallow = true
+[submodule "software/security/rizinorg__cutter"]
+	path = software/security/rizinorg__cutter
+	url = https://github.com/rizinorg/cutter.git
+	shallow = true
+[submodule "software/security/robertdavidgraham__masscan"]
+	path = software/security/robertdavidgraham__masscan
+	url = https://github.com/robertdavidgraham/masscan.git
+	shallow = true
+[submodule "software/security/RogueMaster__flipperzero-firmware-wPlugins"]
+	path = software/security/RogueMaster__flipperzero-firmware-wPlugins
+	url = https://github.com/RogueMaster/flipperzero-firmware-wPlugins.git
+	shallow = true
+[submodule "software/security/RustScan__RustScan"]
+	path = software/security/RustScan__RustScan
+	url = https://github.com/RustScan/RustScan.git
+	shallow = true
+[submodule "software/security/s0lst1c3__eaphammer"]
+	path = software/security/s0lst1c3__eaphammer
+	url = https://github.com/s0lst1c3/eaphammer.git
+	shallow = true
+[submodule "software/security/s0md3v__Photon"]
+	path = software/security/s0md3v__Photon
+	url = https://github.com/s0md3v/Photon.git
+	shallow = true
+[submodule "software/security/SecureAuthCorp__impacket"]
+	path = software/security/SecureAuthCorp__impacket
+	url = https://github.com/SecureAuthCorp/impacket.git
+	shallow = true
+[submodule "software/security/sensepost__hostapd-mana"]
+	path = software/security/sensepost__hostapd-mana
+	url = https://github.com/sensepost/hostapd-mana.git
+	shallow = true
+[submodule "software/security/sherlock-project__sherlock"]
+	path = software/security/sherlock-project__sherlock
+	url = https://github.com/sherlock-project/sherlock.git
+	shallow = true
+[submodule "software/security/sleuthkit__autopsy"]
+	path = software/security/sleuthkit__autopsy
+	url = https://github.com/sleuthkit/autopsy.git
+	shallow = true
+[submodule "software/security/sleuthkit__sleuthkit"]
+	path = software/security/sleuthkit__sleuthkit
+	url = https://github.com/sleuthkit/sleuthkit.git
+	shallow = true
+[submodule "software/security/smicallef__spiderfoot"]
+	path = software/security/smicallef__spiderfoot
+	url = https://github.com/smicallef/spiderfoot.git
+	shallow = true
+[submodule "software/security/snort3__snort3"]
+	path = software/security/snort3__snort3
+	url = https://github.com/snort3/snort3.git
+	shallow = true
+[submodule "software/security/soxoj__maigret"]
+	path = software/security/soxoj__maigret
+	url = https://github.com/soxoj/maigret.git
+	shallow = true
+[submodule "software/security/SpacehuhnTech__esp8266_deauther"]
+	path = software/security/SpacehuhnTech__esp8266_deauther
+	url = https://github.com/SpacehuhnTech/esp8266_deauther.git
+	shallow = true
+[submodule "software/security/SpacehuhnTech__WiFiDuck"]
+	path = software/security/SpacehuhnTech__WiFiDuck
+	url = https://github.com/SpacehuhnTech/WiFiDuck.git
+	shallow = true
+[submodule "software/security/SpecterOps__BloodHound"]
+	path = software/security/SpecterOps__BloodHound
+	url = https://github.com/SpecterOps/BloodHound.git
+	shallow = true
+[submodule "software/security/sqlmapproject__sqlmap"]
+	path = software/security/sqlmapproject__sqlmap
+	url = https://github.com/sqlmapproject/sqlmap.git
+	shallow = true
+[submodule "software/security/sullo__nikto"]
+	path = software/security/sullo__nikto
+	url = https://github.com/sullo/nikto.git
+	shallow = true
+[submodule "software/security/sundowndev__phoneinfoga"]
+	path = software/security/sundowndev__phoneinfoga
+	url = https://github.com/sundowndev/phoneinfoga.git
+	shallow = true
+[submodule "software/security/swisskyrepo__PayloadsAllTheThings"]
+	path = software/security/swisskyrepo__PayloadsAllTheThings
+	url = https://github.com/swisskyrepo/PayloadsAllTheThings.git
+	shallow = true
+[submodule "software/security/t6x__reaver-wps-fork-t6x"]
+	path = software/security/t6x__reaver-wps-fork-t6x
+	url = https://github.com/t6x/reaver-wps-fork-t6x.git
+	shallow = true
+[submodule "software/security/telekom-security__tpotce"]
+	path = software/security/telekom-security__tpotce
+	url = https://github.com/telekom-security/tpotce.git
+	shallow = true
+[submodule "software/security/thinkst__opencanary"]
+	path = software/security/thinkst__opencanary
+	url = https://github.com/thinkst/opencanary.git
+	shallow = true
+[submodule "software/security/threat9__routersploit"]
+	path = software/security/threat9__routersploit
+	url = https://github.com/threat9/routersploit.git
+	shallow = true
+[submodule "software/security/torproject__tor"]
+	path = software/security/torproject__tor
+	url = https://github.com/torproject/tor.git
+	shallow = true
+[submodule "software/security/trufflesecurity__trufflehog"]
+	path = software/security/trufflesecurity__trufflehog
+	url = https://github.com/trufflesecurity/trufflehog.git
+	shallow = true
+[submodule "software/security/trustedsec__social-engineer-toolkit"]
+	path = software/security/trustedsec__social-engineer-toolkit
+	url = https://github.com/trustedsec/social-engineer-toolkit.git
+	shallow = true
+[submodule "software/security/v1s1t0r1sh3r3__airgeddon"]
+	path = software/security/v1s1t0r1sh3r3__airgeddon
+	url = https://github.com/v1s1t0r1sh3r3/airgeddon.git
+	shallow = true
+[submodule "software/security/vanhauser-thc__thc-hydra"]
+	path = software/security/vanhauser-thc__thc-hydra
+	url = https://github.com/vanhauser-thc/thc-hydra.git
+	shallow = true
+[submodule "software/security/VirusTotal__yara"]
+	path = software/security/VirusTotal__yara
+	url = https://github.com/VirusTotal/yara.git
+	shallow = true
+[submodule "software/security/volatilityfoundation__volatility3"]
+	path = software/security/volatilityfoundation__volatility3
+	url = https://github.com/volatilityfoundation/volatility3.git
+	shallow = true
+[submodule "software/security/wazuh__wazuh"]
+	path = software/security/wazuh__wazuh
+	url = https://github.com/wazuh/wazuh.git
+	shallow = true
+[submodule "software/security/wifiphisher__wifiphisher"]
+	path = software/security/wifiphisher__wifiphisher
+	url = https://github.com/wifiphisher/wifiphisher.git
+	shallow = true
+[submodule "software/security/wiire-a__pixiewps"]
+	path = software/security/wiire-a__pixiewps
+	url = https://github.com/wiire-a/pixiewps.git
+	shallow = true
+[submodule "software/security/wireshark__wireshark"]
+	path = software/security/wireshark__wireshark
+	url = https://github.com/wireshark/wireshark.git
+	shallow = true
+[submodule "software/security/zaproxy__zaproxy"]
+	path = software/security/zaproxy__zaproxy
+	url = https://github.com/zaproxy/zaproxy.git
+	shallow = true
+[submodule "software/security/zeek__zeek"]
+	path = software/security/zeek__zeek
+	url = https://github.com/zeek/zeek.git
+	shallow = true
+[submodule "software/security/ZerBea__hcxdumptool"]
+	path = software/security/ZerBea__hcxdumptool
+	url = https://github.com/ZerBea/hcxdumptool.git
+	shallow = true
+[submodule "software/security/ZerBea__hcxtools"]
+	path = software/security/ZerBea__hcxtools
+	url = https://github.com/ZerBea/hcxtools.git
+	shallow = true
+[submodule "software/security/zmap__zmap"]
+	path = software/security/zmap__zmap
+	url = https://github.com/zmap/zmap.git
+	shallow = true
+[submodule "software/selfhost/actualbudget__actual"]
+	path = software/selfhost/actualbudget__actual
+	url = https://github.com/actualbudget/actual.git
+	shallow = true
+[submodule "software/selfhost/apache__guacamole-server"]
+	path = software/selfhost/apache__guacamole-server
+	url = https://github.com/apache/guacamole-server.git
+	shallow = true
+[submodule "software/selfhost/apache__httpd"]
+	path = software/selfhost/apache__httpd
+	url = https://github.com/apache/httpd.git
+	shallow = true
+[submodule "software/selfhost/bastienwirtz__homer"]
+	path = software/selfhost/bastienwirtz__homer
+	url = https://github.com/bastienwirtz/homer.git
+	shallow = true
+[submodule "software/selfhost/BookStackApp__BookStack"]
+	path = software/selfhost/BookStackApp__BookStack
+	url = https://github.com/BookStackApp/BookStack.git
+	shallow = true
+[submodule "software/selfhost/caddyserver__caddy"]
+	path = software/selfhost/caddyserver__caddy
+	url = https://github.com/caddyserver/caddy.git
+	shallow = true
+[submodule "software/selfhost/cockpit-project__cockpit"]
+	path = software/selfhost/cockpit-project__cockpit
+	url = https://github.com/cockpit-project/cockpit.git
+	shallow = true
+[submodule "software/selfhost/dani-garcia__vaultwarden"]
+	path = software/selfhost/dani-garcia__vaultwarden
+	url = https://github.com/dani-garcia/vaultwarden.git
+	shallow = true
+[submodule "software/selfhost/element-hq__synapse"]
+	path = software/selfhost/element-hq__synapse
+	url = https://github.com/element-hq/synapse.git
+	shallow = true
+[submodule "software/selfhost/filebrowser__filebrowser"]
+	path = software/selfhost/filebrowser__filebrowser
+	url = https://github.com/filebrowser/filebrowser.git
+	shallow = true
+[submodule "software/selfhost/firefly-iii__firefly-iii"]
+	path = software/selfhost/firefly-iii__firefly-iii
+	url = https://github.com/firefly-iii/firefly-iii.git
+	shallow = true
+[submodule "software/selfhost/frappe__erpnext"]
+	path = software/selfhost/frappe__erpnext
+	url = https://github.com/frappe/erpnext.git
+	shallow = true
+[submodule "software/selfhost/FreshRSS__FreshRSS"]
+	path = software/selfhost/FreshRSS__FreshRSS
+	url = https://github.com/FreshRSS/FreshRSS.git
+	shallow = true
+[submodule "software/selfhost/gethomepage__homepage"]
+	path = software/selfhost/gethomepage__homepage
+	url = https://github.com/gethomepage/homepage.git
+	shallow = true
+[submodule "software/selfhost/go-gitea__gitea"]
+	path = software/selfhost/go-gitea__gitea
+	url = https://github.com/go-gitea/gitea.git
+	shallow = true
+[submodule "software/selfhost/gogs__gogs"]
+	path = software/selfhost/gogs__gogs
+	url = https://github.com/gogs/gogs.git
+	shallow = true
+[submodule "software/selfhost/haiwen__seafile"]
+	path = software/selfhost/haiwen__seafile
+	url = https://github.com/haiwen/seafile.git
+	shallow = true
+[submodule "software/selfhost/huginn__huginn"]
+	path = software/selfhost/huginn__huginn
+	url = https://github.com/huginn/huginn.git
+	shallow = true
+[submodule "software/selfhost/iiab__iiab"]
+	path = software/selfhost/iiab__iiab
+	url = https://github.com/iiab/iiab.git
+	shallow = true
+[submodule "software/selfhost/Jermolene__TiddlyWiki5"]
+	path = software/selfhost/Jermolene__TiddlyWiki5
+	url = https://github.com/Jermolene/TiddlyWiki5.git
+	shallow = true
+[submodule "software/selfhost/jitsi__jitsi-meet"]
+	path = software/selfhost/jitsi__jitsi-meet
+	url = https://github.com/jitsi/jitsi-meet.git
+	shallow = true
+[submodule "software/selfhost/kiwix__kiwix-hotspot"]
+	path = software/selfhost/kiwix__kiwix-hotspot
+	url = https://github.com/kiwix/kiwix-hotspot.git
+	shallow = true
+[submodule "software/selfhost/kiwix__kiwix-tools"]
+	path = software/selfhost/kiwix__kiwix-tools
+	url = https://github.com/kiwix/kiwix-tools.git
+	shallow = true
+[submodule "software/selfhost/LemmyNet__lemmy"]
+	path = software/selfhost/LemmyNet__lemmy
+	url = https://github.com/LemmyNet/lemmy.git
+	shallow = true
+[submodule "software/selfhost/LibVNC__x11vnc"]
+	path = software/selfhost/LibVNC__x11vnc
+	url = https://github.com/LibVNC/x11vnc.git
+	shallow = true
+[submodule "software/selfhost/linuxserver__Heimdall"]
+	path = software/selfhost/linuxserver__Heimdall
+	url = https://github.com/linuxserver/Heimdall.git
+	shallow = true
+[submodule "software/selfhost/Lissy93__dashy"]
+	path = software/selfhost/Lissy93__dashy
+	url = https://github.com/Lissy93/dashy.git
+	shallow = true
+[submodule "software/selfhost/MariaDB__server"]
+	path = software/selfhost/MariaDB__server
+	url = https://github.com/MariaDB/server.git
+	shallow = true
+[submodule "software/selfhost/mastodon__mastodon"]
+	path = software/selfhost/mastodon__mastodon
+	url = https://github.com/mastodon/mastodon.git
+	shallow = true
+[submodule "software/selfhost/matrix-org__synapse"]
+	path = software/selfhost/matrix-org__synapse
+	url = https://github.com/matrix-org/synapse.git
+	shallow = true
+[submodule "software/selfhost/mealie-recipes__mealie"]
+	path = software/selfhost/mealie-recipes__mealie
+	url = https://github.com/mealie-recipes/mealie.git
+	shallow = true
+[submodule "software/selfhost/miniflux__v2"]
+	path = software/selfhost/miniflux__v2
+	url = https://github.com/miniflux/v2.git
+	shallow = true
+[submodule "software/selfhost/mumble-voip__mumble"]
+	path = software/selfhost/mumble-voip__mumble
+	url = https://github.com/mumble-voip/mumble.git
+	shallow = true
+[submodule "software/selfhost/n8n-io__n8n"]
+	path = software/selfhost/n8n-io__n8n
+	url = https://github.com/n8n-io/n8n.git
+	shallow = true
+[submodule "software/selfhost/neutrinolabs__xrdp"]
+	path = software/selfhost/neutrinolabs__xrdp
+	url = https://github.com/neutrinolabs/xrdp.git
+	shallow = true
+[submodule "software/selfhost/nextcloud__all-in-one"]
+	path = software/selfhost/nextcloud__all-in-one
+	url = https://github.com/nextcloud/all-in-one.git
+	shallow = true
+[submodule "software/selfhost/nextcloud__server"]
+	path = software/selfhost/nextcloud__server
+	url = https://github.com/nextcloud/server.git
+	shallow = true
+[submodule "software/selfhost/nginx__nginx"]
+	path = software/selfhost/nginx__nginx
+	url = https://github.com/nginx/nginx.git
+	shallow = true
+[submodule "software/selfhost/NginxProxyManager__nginx-proxy-manager"]
+	path = software/selfhost/NginxProxyManager__nginx-proxy-manager
+	url = https://github.com/NginxProxyManager/nginx-proxy-manager.git
+	shallow = true
+[submodule "software/selfhost/novnc__noVNC"]
+	path = software/selfhost/novnc__noVNC
+	url = https://github.com/novnc/noVNC.git
+	shallow = true
+[submodule "software/selfhost/odoo__odoo"]
+	path = software/selfhost/odoo__odoo
+	url = https://github.com/odoo/odoo.git
+	shallow = true
+[submodule "software/selfhost/owncloud__core"]
+	path = software/selfhost/owncloud__core
+	url = https://github.com/owncloud/core.git
+	shallow = true
+[submodule "software/selfhost/paperless-ngx__paperless-ngx"]
+	path = software/selfhost/paperless-ngx__paperless-ngx
+	url = https://github.com/paperless-ngx/paperless-ngx.git
+	shallow = true
+[submodule "software/selfhost/postgres__postgres"]
+	path = software/selfhost/postgres__postgres
+	url = https://github.com/postgres/postgres.git
+	shallow = true
+[submodule "software/selfhost/redis__redis"]
+	path = software/selfhost/redis__redis
+	url = https://github.com/redis/redis.git
+	shallow = true
+[submodule "software/selfhost/requarks__wiki"]
+	path = software/selfhost/requarks__wiki
+	url = https://github.com/requarks/wiki.git
+	shallow = true
+[submodule "software/selfhost/RocketChat__Rocket.Chat"]
+	path = software/selfhost/RocketChat__Rocket.Chat
+	url = https://github.com/RocketChat/Rocket.Chat.git
+	shallow = true
+[submodule "software/selfhost/rustdesk__rustdesk"]
+	path = software/selfhost/rustdesk__rustdesk
+	url = https://github.com/rustdesk/rustdesk.git
+	shallow = true
+[submodule "software/selfhost/TigerVNC__tigervnc"]
+	path = software/selfhost/TigerVNC__tigervnc
+	url = https://github.com/TigerVNC/tigervnc.git
+	shallow = true
+[submodule "software/selfhost/traefik__traefik"]
+	path = software/selfhost/traefik__traefik
+	url = https://github.com/traefik/traefik.git
+	shallow = true
+[submodule "software/selfhost/wallabag__wallabag"]
+	path = software/selfhost/wallabag__wallabag
+	url = https://github.com/wallabag/wallabag.git
+	shallow = true
+[submodule "software/selfhost/webmin__webmin"]
+	path = software/selfhost/webmin__webmin
+	url = https://github.com/webmin/webmin.git
+	shallow = true
+[submodule "software/selfhost/zulip__zulip"]
+	path = software/selfhost/zulip__zulip
+	url = https://github.com/zulip/zulip.git
+	shallow = true
